@@ -1,0 +1,36 @@
+---
+---
+
+// start content
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 88px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+// Authors
+#author-card {
+  flex: 0 0 calc((100% / 4) - 30px);
+  margin-bottom: 30px;
+  min-height: 120px;
+  cursor: pointer;
+}
+#author-card i {
+  font-size: 7rem;
+}
+.modal .media img {
+  max-height: 200px;
+}
+.modal .media #style-cat i {
+  vertical-align: bottom;
+}
