@@ -24,6 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # menu settings
 menu:
+  - label: Featured Authors
+    link: /featured-authors/
   - label: Authors
     link: /authors/
   - label: Events
@@ -32,6 +34,8 @@ menu:
     link: /about/
 
 collections:
+  featured-authors:
+    output: true
   authors:
     output: true
     source: authors.csv

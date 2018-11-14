@@ -2,7 +2,7 @@
 ---
 
 // start content
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
 html {
@@ -10,7 +10,7 @@ html {
   min-height: 100%;
 }
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin-bottom: 88px;
 }
 footer {
@@ -18,9 +18,26 @@ footer {
   bottom: 0;
   width: 100%;
 }
+// Featured Authors
+#featured-authors.card-columns {
+  column-count: 4;
+}
+#featured-authors .card .card-img-overlay {
+  background-color: rgba(0,0,0,.7);
+  transition: .5s ease;
+  opacity: 1;
+  color: #fff;
+}
+#featured-authors .card:hover .card-img-overlay {
+  opacity: 0;
+  color: #fff0;
+}
+#featured-authors .card .card-img-overlay h1 {
+  font-size: 4rem;
+}
 // Authors
 #author-card {
-  flex: 0 0 calc((100% / 4) - 30px);
+  flex: 0 0 calc((100% / 5) - 30px);
   margin-bottom: 30px;
   min-height: 120px;
   cursor: pointer;

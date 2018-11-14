@@ -5,4 +5,5 @@
 layout: default
 title: Home
 ---
-{% include carousel.html %}
+
+{% include featured-authors.html %}
