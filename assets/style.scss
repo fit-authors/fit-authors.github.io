@@ -18,6 +18,13 @@ footer {
   bottom: 0;
   width: 100%;
 }
+header .logo img {
+  height: 100px;
+  max-width: 100%;
+}
+.navbar-brand img {
+  height: 30px;
+}
 // Featured Authors
 #featured-authors.card-columns {
   column-count: 4;
