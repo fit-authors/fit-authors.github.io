@@ -12,6 +12,8 @@
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}
+    {% elsif page.layout == "profile" %}
+      {{ page.name }}
     {% else %}
       {{ page.title }}
     {% endif %}

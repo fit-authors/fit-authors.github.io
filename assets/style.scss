@@ -2,16 +2,19 @@
 ---
 
 // start content
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
-@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://use.typekit.net/xmr8nye.css');
+@import url('https://use.fontawesome.com/releases/v5.5.0/css/all.css');
 
 html {
   position: relative;
   min-height: 100%;
 }
 body {
-  font-family: 'Poppins', sans-serif;
-  margin-bottom: 88px;
+  font-family: "halyard-micro",sans-serif;
+  margin-bottom: 184px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
 }
 footer {
   position: absolute;
@@ -26,21 +29,56 @@ header .logo img {
   height: 30px;
 }
 // Featured Authors
-#featured-authors.card-columns {
-  column-count: 4;
+@media (min-width: 1200px) {
+  #featured-authors.card-columns {
+    column-count: 4;
+  }
+}
+@media (min-width: 768px) {
+  #featured-authors .card {
+    margin-bottom: 1.25rem;
+  }
 }
 #featured-authors .card .card-img-overlay {
-  background-color: rgba(0,0,0,.7);
+  background-color: rgba(0,0,0,.5);
   transition: .5s ease;
   opacity: 1;
   color: #fff;
-}
-#featured-authors .card:hover .card-img-overlay {
-  opacity: 0;
-  color: #fff0;
+  overflow: hidden;
 }
 #featured-authors .card .card-img-overlay h1 {
-  font-size: 4rem;
+  font-size: 2.75rem;
+  text-transform: uppercase;
+}
+@media (min-width: 576px) {
+  #featured-authors .card .card-img-overlay h1 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width: 768px) {
+  #featured-authors .card .card-img-overlay h1 {
+    font-size: 1.5rem;
+  }
+}
+@media (min-width: 992px) {
+  #featured-authors .card .card-img-overlay h1 {
+    font-size: 2.5rem;
+  }
+}
+@media (min-width: 1200px) {
+  #featured-authors .card .card-img-overlay h1 {
+    font-size: 2.25rem;
+  }
+}
+// Profiles
+#author-block, #work-block, #interview-block {
+  border-bottom: 1px solid rgba(0,0,0,.125);
+}
+#author-name p, #author-name ul {
+  margin-left: .25rem;
+}
+#author-block .nav .nav-link:first-of-type {
+  padding-left: .15rem;
 }
 // Authors
 #author-card {
@@ -57,4 +95,8 @@ header .logo img {
 }
 .modal .media #style-cat i {
   vertical-align: bottom;
+}
+// Events
+#event-slide {
+  border: 1px solid rgba(0,0,0,.125);
 }

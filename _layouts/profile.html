@@ -1,0 +1,85 @@
+---
+layout: default
+---
+<div class="row align-items-center mb-5 pb-5" id="author-block">
+  <div class="col-md-2" id="author-image">
+    {% if page.image %}
+    <img class="img-fluid rounded mb-3 mb-md-0" src="/assets/images/{{page.image}}" alt="Portrait of {{page.name}}" />
+    {% endif %}
+  </div>
+  <div class="col-md-auto" id="author-name">
+    {% if page.title %}
+    <p class="mb-0">{{page.title}}</p>
+    {% endif %}
+    <h1 class="display-4">{{page.name}}</h1>
+    <ul class="list-unstyled text-muted small mb-0">
+      {% if page.division %}
+      <li>{{page.division}}</li>
+      {% endif %}
+      {% if page.department %}
+      <li>{{page.department}}</li>
+      {% endif %}
+      <li>
+        <nav class="nav">
+          {% if page.email %}
+          <a class="nav-link text-muted" aria-label="Email" href="mailto:{{page.email}}" target="_blank">
+            <i aria-hidden class="fas fa-envelope" title="Email"></i>
+          </a>
+          {% endif %}
+          {% if page.website %}
+          <a class="nav-link text-muted" aria-label="Homepage" href="{{page.website}}" target="_blank">
+            <i aria-hidden class="fas fa-home" title="Homepage"></i>
+          </a>
+          {% endif %}
+          {% if page.twitter %}
+          <a class="nav-link text-muted" aria-label="Twitter" href="https://twitter.com/{{page.twitter}}" target="_blank">
+            <i aria-hidden class="fab fa-twitter" title="Twitter"></i>
+          </a>
+          {% endif %}
+          {% if page.instagram %}
+          <a class="nav-link text-muted" aria-label="Instagram" href="https://www.instagram.com/{{page.instagram}}" target="_blank">
+            <i aria-hidden class="fab fa-instagram" title="Instragram"></i>
+          </a>
+          {% endif %}
+          {% if page.facebook %}
+          <a class="nav-link text-muted" aria-label="Facebook" href="https://www.facebook.com/{{page.facebook}}" target="_blank">
+            <i aria-hidden class="fab fa-facebook" title="Facebook"></i>
+          </a>
+          {% endif %}
+        </nav>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="row justify-content-between align-items-center mb-5 pb-5" id="work-block">
+  <div class="col-md-7">
+    {% if page.work.title %}
+    <h2>
+      {{page.work.title}}
+      {% if page.work.subtitle %}
+      <br><small class="text-muted">{{page.work.subtitle}}</small>
+      {% endif %}
+    </h2>
+    {% endif %}
+    {% if page.work.summary %}
+    <p>{{page.work.summary}}</p>
+    {% endif %}
+  </div>
+  <div class="col-md-4">
+    {% if page.work.image %}
+    <img class="img-fluid rounded" src="/assets/images/{{page.work.image}}" alt="Cover of {{page.work.image}}" />
+    {% endif %}
+  </div>
+</div>
+<div class="row align-items-center justify-content-between mb-5 pb-5" id="interview-block">
+  <div class="col-md-7">
+    {{ content }}
+  </div>
+  <div class="col-md-4">
+    <ul class="lead mb-0 pl-md-0">
+      {% for item in page.about %}
+      <li class="mb-2">{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

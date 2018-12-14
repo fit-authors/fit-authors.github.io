@@ -1,0 +1,22 @@
+
+<div class="jumbotron bg-white" id="event-slide">
+  <div class="row align-items-center">
+    <div class="col-md-8">
+      <p class="lead">{{event.date | date: "%A, %B %d, %Y" }} | {{event.time}}</p>
+      <h1 class="display-3 font-italic mb-3">
+        {{event.author}}
+      </h1>
+      <p>{{event.location}}</p>
+      <p>{{event.description}}</p>
+      <p><a class="text-dark" href="{{event.url}}">Continue reading...</a></p>
+    </div>
+    <div class="col-md-4">
+      {% if event.image %}
+      <img class="img-fluid rounded" src="/assets/images/{{event.image}}" alt="{{author.name}} Event Image" />
+      {% elsif event.author-image %}
+      <img class="img-fluid rounded" src="/assets/images/{{event.author-image}}" alt="Portrait of {{author.name}}" />
+      {% endif %}
+    </div>
+  </div>
+
+</div>

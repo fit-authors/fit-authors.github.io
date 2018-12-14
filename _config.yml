@@ -24,23 +24,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # menu settings
 menu:
-  - label: Featured Authors
-    link: /featured-authors/
+  - label: Profiles
+    link: /profiles/
   - label: Authors
     link: /authors/
   - label: Events
     link: /events/
   - label: About
     link: /about/
-
+# collection settings
 collections:
-  featured-authors:
+  profiles:
     output: true
   authors:
     output: true
     source: authors.csv
     id_key: Name
     layout: authors
+  events:
+    output: true
 
 # Build settings
 markdown: kramdown

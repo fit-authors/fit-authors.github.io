@@ -6,4 +6,5 @@ layout: default
 title: Home
 ---
 
-{% include featured-authors.html %}
+{% include featured-event.html %}
+{% include profiles.html %}

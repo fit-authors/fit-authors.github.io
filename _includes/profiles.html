@@ -1,0 +1,16 @@
+<div class="card-columns" id="featured-authors">
+  {% for author in site.profiles %}
+    <a href="{{author.url}}" class="card">
+      {% if author.image %}
+      <img class="card-img" src="/assets/images/{{author.image}}" alt="Portrait of {{author.name}}" />
+      {% elsif author.work.image %}
+      <img class="card-img" src="/assets/images/{{author.work.image}}" alt="{{author.work.title}}" />
+      {% else %}
+
+      {% endif %}
+      <div class="card-img-overlay d-flex justify-content-center align-items-center rounded">
+        <h1 class="text-center mb-0">{{author.name}}</h1>
+      </div>
+    </a>
+  {% endfor %}
+</div>
