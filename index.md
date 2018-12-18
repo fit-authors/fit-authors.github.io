@@ -7,4 +7,4 @@ title: Home
 ---
 
 {% include featured-event.html %}
-{% include profiles.html %}
+{% include featured-profiles.html %}

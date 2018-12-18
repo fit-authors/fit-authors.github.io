@@ -28,6 +28,11 @@ header .logo img {
 .navbar-brand img {
   height: 30px;
 }
+// Home
+#more-events {
+  margin-top: -1.5rem;
+  margin-bottom: 3rem;
+}
 // Featured Authors
 @media (min-width: 1200px) {
   #featured-authors.card-columns {
@@ -35,12 +40,15 @@ header .logo img {
   }
 }
 @media (min-width: 768px) {
+  #featured-authors {
+    column-gap: 3rem;
+  }
   #featured-authors .card {
-    margin-bottom: 1.25rem;
+    margin-bottom: 3rem;
   }
 }
 #featured-authors .card .card-img-overlay {
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(0,0,0,.2);
   transition: .5s ease;
   opacity: 1;
   color: #fff;
@@ -62,12 +70,12 @@ header .logo img {
 }
 @media (min-width: 992px) {
   #featured-authors .card .card-img-overlay h1 {
-    font-size: 2.5rem;
+    font-size: 2.25rem;
   }
 }
 @media (min-width: 1200px) {
   #featured-authors .card .card-img-overlay h1 {
-    font-size: 2.25rem;
+    font-size: 2rem;
   }
 }
 // Profiles

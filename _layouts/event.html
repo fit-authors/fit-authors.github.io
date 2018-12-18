@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="jumbotron bg-white" id="event-slide">
+  <div class="row align-items-center">
+    <div class="col-md-8">
+      <p class="lead">{{page.date | date: "%A, %B %d, %Y" }} | {{page.time}}</p>
+      <h1 class="d-none d-md-block display-3 font-italic mb-3">
+        {{page.author}}
+      </h1>
+      <h1 class="d-md-none font-italic mb-3">
+        {{page.author}}
+      </h1>
+      <p>{{page.location}}</p>
+      <p>{{page.description}}</p>
+      <p><a class="text-dark" href="{{event.url}}">Continue reading...</a></p>
+    </div>
+    <div class="col-md-4">
+      {% if page.image %}
+      <img class="img-fluid rounded" src="/assets/images/{{page.image}}" alt="{{page.author}} Event Image" />
+      {% elsif page.author-image %}
+      <img class="img-fluid rounded" src="/assets/images/{{page.author-image}}" alt="Portrait of {{page.author}}" />
+      {% endif %}
+    </div>
+  </div>
+
+</div>

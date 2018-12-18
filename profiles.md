@@ -3,4 +3,5 @@ layout: default
 title: Profiles
 permalink: /profiles/
 ---
-{% include profiles.html %}
+{% assign profiles = site.profiles %}
+{% include profiles.html %}s

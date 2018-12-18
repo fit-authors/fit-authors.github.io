@@ -1,5 +1,5 @@
 <div class="card-columns" id="featured-authors">
-  {% for author in site.profiles %}
+  {% for author in profiles %}
     <a href="{{author.url}}" class="card">
       {% if author.image %}
       <img class="card-img" src="/assets/images/{{author.image}}" alt="Portrait of {{author.name}}" />

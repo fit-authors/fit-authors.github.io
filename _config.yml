@@ -26,8 +26,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 menu:
   - label: Profiles
     link: /profiles/
-  - label: Authors
-    link: /authors/
+  - label: Publications
+    link: /publications/
   - label: Events
     link: /events/
   - label: About
