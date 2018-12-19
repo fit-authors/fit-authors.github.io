@@ -1,10 +1,16 @@
 ---
 layout: default
 ---
-<div class="jumbotron bg-white" id="event-slide">
-  <div class="row align-items-center">
+  <div class="row align-items-center justify-content-center">
     <div class="col-md-8">
-      <p class="lead">{{page.date | date: "%A, %B %d, %Y" }} | {{page.time}}</p>
+      {% if page.image %}
+      <img class="img-fluid rounded" src="/assets/images/{{page.image}}" alt="{{page.author}} Event Image" />
+      {% endif %}
+      <p>{{page.description}}</p>
+      <p class="lead">
+        {{page.date | date: "%A, %B %d, %Y" }} | {{page.time}}<br>
+        {{page.location}}
+      </p>
       <h1 class="d-none d-md-block display-3 font-italic mb-3">
         {{page.author}}
       </h1>
@@ -12,8 +18,8 @@ layout: default
         {{page.author}}
       </h1>
       <p>{{page.location}}</p>
-      <p>{{page.description}}</p>
-      <p><a class="text-dark" href="{{event.url}}">Continue reading...</a></p>
+
+      <p>{{page.content}}</p>
     </div>
     <div class="col-md-4">
       {% if page.image %}
@@ -23,5 +29,3 @@ layout: default
       {% endif %}
     </div>
   </div>
-
-</div>

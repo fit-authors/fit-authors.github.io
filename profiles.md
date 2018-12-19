@@ -4,4 +4,4 @@ title: Profiles
 permalink: /profiles/
 ---
 {% assign profiles = site.profiles %}
-{% include profiles.html %}s
+{% include profiles.html %}
