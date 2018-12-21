@@ -1,0 +1,141 @@
+/* Display */
+@font-face {
+font-family:"Halyard Display";
+src:url("HalyardDis-Regular.otf");
+font-style:normal;
+font-weight:400;
+}
+
+@font-face {
+font-family:"Halyard Display";
+src:url("HalyardDis-It.otf");
+font-style:italic;
+font-weight:400;
+}
+
+@font-face {
+font-family:"Halyard Display";
+src:url("HalyardDisMed.otf");
+font-style:normal;
+font-weight:500;
+}
+
+@font-face {
+font-family:"Halyard Display";
+src:url("HalyardDisMed-It.otf");
+font-style:italic;
+font-weight:500;
+}
+
+@font-face {
+font-family:"Halyard Display";
+src:url("HalyardDis-Bd.otf");
+font-style:normal;
+font-weight:700;
+}
+
+@font-face {
+font-family:"Halyard Display";
+src:url("HalyardDis-BdIt.otf");
+font-style:italic;
+font-weight:700;
+}
+
+/* Text */
+@font-face {
+font-family:"Halyard Text";
+src:url("HalyardText-Reg.otf");
+font-style:normal;
+font-weight:400;
+}
+
+@font-face {
+font-family:"Halyard Text";
+src:url("HalyardText-It.otf");
+font-style:italic;
+font-weight:400;
+}
+
+@font-face {
+font-family:"Halyard Text";
+src:url("HalyardTextMed.otf");
+font-style:normal;
+font-weight:500;
+}
+
+@font-face {
+font-family:"Halyard Text";
+src:url("HalyardTextMed-It.otf");
+font-style:italic;
+font-weight:500;
+}
+
+@font-face {
+font-family:"Halyard Text";
+src:url("HalyardText-Bd.otf");
+font-style:normal;
+font-weight:700;
+}
+
+@font-face {
+font-family:"Halyard Text";
+src:url("HalyardTextBd-It.otf");
+font-style:italic;
+font-weight:700;
+}
+@font-face {
+font-family:"Halyard Text";
+src:url("HalyardTextBlack.otf");
+font-style:normal;
+font-weight:900;
+}
+
+@font-face {
+font-family:"Halyard Text";
+src:url("HalyardTextBlack-It.otf");
+font-style:italic;
+font-weight:900;
+}
+
+/* Micro */
+@font-face {
+font-family:"Halyard Micro";
+src:url("HalyardMic-Regular.otf");
+font-style:normal;
+font-weight:400;
+}
+
+@font-face {
+font-family:"Halyard Micro";
+src:url("HalyardMic-It.otf");
+font-style:italic;
+font-weight:400;
+}
+
+@font-face {
+font-family:"Halyard Micro";
+src:url("HalyardMicMed.otf");
+font-style:normal;
+font-weight:500;
+}
+
+@font-face {
+font-family:"Halyard Micro";
+src:url("HalyardMicMed-It.otf");
+font-style:italic;
+font-weight:500;
+}
+
+@font-face {
+font-family:"Halyard Micro";
+src:url("HalyardMicBd.otf");
+font-style:normal;
+font-weight:700;
+}
+
+@font-face {
+font-family:"Halyard Micro";
+src:url("HalyardMicBd-It.otf");
+font-style:italic;
+font-weight:700;
+}

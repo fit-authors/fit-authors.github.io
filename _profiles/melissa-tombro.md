@@ -13,9 +13,9 @@ about:
   - Teaches classes on writing and women and gender studies
 
 work:
-  title: Teachinq Autoethnoqraphy
-  subtitle: Personal Writinq in the Classroom
-  summary: "Teachinq Autoethnoqraphy: Personal Writinq in the Classroom is dedicated to the practice of immersive ethnographic and autoethonographic writing that encourages authors to participate in the communities about which they write. The book draws not only on critical qualitative inquiry methods such as interview and observation, but also on theories and sensibilities from creative writing and performance studies, which encourage self-reflection and narrative composition. The book provides approaches anyone can use to explore their communities and write about them first-hand. The methods presented can be used for a single assignment in a larger course or to guide an entire semester through many levels and varieties of informed personal writing."
+  title: Teaching Autoethnography
+  subtitle: Personal Writing in the Classroom
+  summary: "Teaching Autoethnography: Personal Writing in the Classroom is dedicated to the practice of immersive ethnographic and autoethonographic writing that encourages authors to participate in the communities about which they write. The book draws not only on critical qualitative inquiry methods such as interview and observation, but also on theories and sensibilities from creative writing and performance studies, which encourage self-reflection and narrative composition. The book provides approaches anyone can use to explore their communities and write about them first-hand. The methods presented can be used for a single assignment in a larger course or to guide an entire semester through many levels and varieties of informed personal writing."
   type: book
   image: tombro-cover.jpg
 ---
