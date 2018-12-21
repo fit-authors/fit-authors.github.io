@@ -2,7 +2,7 @@
 ---
 
 // start content
-@import url('https://use.typekit.net/xmr8nye.css');
+@import url('fonts/halyard.css');
 @import url('https://use.fontawesome.com/releases/v5.5.0/css/all.css');
 
 html {
@@ -10,10 +10,11 @@ html {
   min-height: 100%;
 }
 body {
-  font-family: "halyard-micro",sans-serif;
+  font-family: "Halyard Micro",sans-serif;
   margin-bottom: 184px;
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: "Halyard Text",sans-serif;
   font-weight: 700;
 }
 footer {
@@ -55,7 +56,7 @@ header .logo img {
   overflow: hidden;
 }
 #featured-authors .card .card-img-overlay h1 {
-  font-size: 2.75rem;
+  font-size: 3rem;
   text-transform: uppercase;
 }
 @media (min-width: 576px) {
@@ -65,17 +66,17 @@ header .logo img {
 }
 @media (min-width: 768px) {
   #featured-authors .card .card-img-overlay h1 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
 }
 @media (min-width: 992px) {
   #featured-authors .card .card-img-overlay h1 {
-    font-size: 2.25rem;
+    font-size: 2.5rem;
   }
 }
 @media (min-width: 1200px) {
   #featured-authors .card .card-img-overlay h1 {
-    font-size: 2rem;
+    font-size: 2.25rem;
   }
 }
 // Profiles
