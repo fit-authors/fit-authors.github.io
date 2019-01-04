@@ -19,12 +19,12 @@
         {% for item in site.menu %}
           {% if item.sub %}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle text-secondary" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               {{ item.label }}
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               {% for sub in item.sub %}
-              <a class="dropdown-item text-dark" href="{{ sub.link | relative_url }}">{{ sub.label }}</a>
+              <a class="dropdown-item text-secondary" href="{{ sub.link | relative_url }}">{{ sub.label }}</a>
               {% endfor %}
             </div>
           </li>
