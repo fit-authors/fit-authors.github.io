@@ -2,21 +2,27 @@
   {% for publication in site.data.publications %}
   <div class="card" id="publication-card" data-toggle="modal" data-target="#publication-{{ publication.pid }}">
     {% if publication.url %}
-    <img src="{{publication.url}}" alt="Cover of {{publication.Title}}" class="card-img">
+    <img src="{{publication.url}}" alt="Cover of {{publication.title}}" class="card-img">
     {% else %}
     <div class="card-body text-center">
-      <h1 class="card-title">{{ publication.Title }}</h1>
-      <h2 class="card-subtitle text-muted">{{ publication.Name }}</h2>
+      <h1 class="card-title">{{ publication.title }}</h1>
+      <h2 class="card-subtitle text-muted">{{ publication.name }}</h2>
     </div>
     {% endif %}
   </div>
 
   <!-- Modal -->
-  <div class="modal fade" id="publication-{{ publication.pid }}" tabindex="-1" role="dialog" aria-labelledby="{{ publication.Name }}" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+  <div class="modal fade" id="publication-{{ publication.pid }}" tabindex="-1" role="dialog" aria-labelledby="{{ publication.name }}" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalCenterTitle">{{ publication.Name }}</h5>
+          <h5 class="modal-title" id="exampleModalCenterTitle">
+            {{ publication.name }}
+            {% if publication.department %}
+            &nbsp;
+            <small class="text-muted">{{ publication.department }}</small>
+            {% endif %}
+          </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -24,13 +30,39 @@
         <div class="modal-body">
           <div class="media">
             {% if publication.url %}
-            <img class="mr-3" src="{{publication.url}}" alt="Cover of {{publication.Title}}">
+            <img class="mr-3" src="{{publication.url}}" alt="Cover of {{publication.title}}">
             {% endif %}
             <div class="media-body">
-              <h5 class="mt-0">{{ publication.Title }}{% if publication.Year %} <small class="text-muted">({{ publication.Year }})</small>{% endif %}</h5>
-              {% if publication.StyleCat %}
-                <a class="text-dark" id="style-cat" href="{{ publication.StyleCat }}" target="_blank"><small>Find in the FIT Library <i class="fas fa-external-link-alt"></i></small></a>
+              <h5 class="mt-0">{{ publication.title }}{% if publication.year %} <small class="text-muted">({{ publication.year }})</small>{% endif %}</h5>
+
+              {% if publication.description %}
+                {% assign size = publication.description | size %}
+                {% if size > 200 %}
+                <p class="description collapse" id="description-{{ publication.pid }}">
+                  {{ publication.description }}
+                </p>
+                <p id="description-button">
+                  <a class="text-primary small" data-toggle="collapse" data-target="#description-{{ publication.pid }}" aria-expanded="false" aria-controls="description-{{ publication.pid }}">
+                  </a>
+                </p>
+                {% else %}
+                <p class="description" id="description-{{ publication.pid }}">
+                  {{ publication.description }}
+                </p>
+                {% endif %}
               {% endif %}
+              <ul class="nav">
+                {% if publication.stylecat %}
+                <li class="nav-item">
+                  <a class="nav-link text-muted p-0 mr-md-5" id="style-cat" href="{{ publication.stylecat }}" target="_blank"><small>Find in the FIT Library <i class="fas fa-external-link-alt"></i></small></a>
+                </li>
+                {% endif %}
+                {% if publication.preview %}
+                <li class="nav-item">
+                  <a class="nav-link text-muted p-0" id="google-books" href="{{ publication.preview }}" target="_blank"><small>View at Google Books <i class="fas fa-external-link-alt"></i></small></a>
+                </li>
+                {% endif %}
+              </ul>
               <a></a>
             </div>
           </div>

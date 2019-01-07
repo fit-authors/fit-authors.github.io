@@ -135,7 +135,28 @@ header .logo img {
   }
 }
 #publications .modal .media img {
-  max-height: 200px;
+  max-width: 150px;
+}
+#publications .modal .description.collapse:not(.show) {
+  display: block;
+  height: 6rem !important;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+#publications .modal .description.collapsing {
+  height: 6rem;
+}
+#publications .modal #description-button {
+  cursor: pointer;
+  margin-top: -1rem;
+}
+#publications .modal #description-button a[aria-expanded="false"]::after {
+  content: 'Show More';
+}
+#publications .modal #description-button a[aria-expanded="true"]::after {
+  content: 'Show Less';
 }
 // Events
 #event-slide {
