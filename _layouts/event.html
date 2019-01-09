@@ -4,16 +4,10 @@ layout: default
   <div class="row align-items-center justify-content-center">
     <div class="col-md-8">
       <h1 class="mb-4 text-center">
-        {{page.author}}
-        {% assign profile = site.profiles | where: "name", page.author | first %}
-        {% if profile %}
-          <a id="profile-button" class="text-muted" aria-label="Author Profile" href="{{profile.url}}">
-            <i aria-hidden class="fas fa-user" title="Author Profile"></i>
-          </a>
-        {% endif %}
+        {{page.event_title}}
       </h1>
       {% if page.image %}
-      <img class="img-fluid rounded" src="/assets/images/{{page.image}}" alt="{{page.author}} Event Image" />
+      <img class="img-fluid rounded mb-2" src="/assets/images/{{page.image}}" alt="{{page.author}} Event Image" />
       {% endif %}
       <p class="font-italic">{{page.description}}</p>
       <p class="lead text-center my-5">
@@ -44,7 +38,26 @@ layout: default
         </div>
         {% endif %}
       </p>
-
       <p>{{page.content}}</p>
     </div>
+    {% for author in page.authors %}
+      {% assign profile = site.profiles | where: "name", author | first %}
+      {% if profile %}
+      <div class="col-md-8 mt-5 pt-5" id="profile-link">
+        <div class="row align-items-center">
+          <div class="col-md-2" id="author-image">
+            {% if profile.image %}
+            <img class="img-fluid rounded mb-3 mb-md-0" src="/assets/images/{{profile.image}}" alt="Portrait of {{profile.name}}" />
+            {% endif %}
+          </div>
+          <div class="col-md-auto" id="author-name">
+            <h2>{{profile.name}}</h2>
+            <a class="text-dark" href="{{profile.url}}">
+              View Profile
+            </a>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    {% endfor %}
   </div>
