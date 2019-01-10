@@ -58,6 +58,7 @@ header .logo img {
   opacity: 1;
   color: #fff;
   overflow: hidden;
+  padding: 1rem;
 }
 #featured-authors .card .card-img-overlay h1 {
   font-size: 3rem;
@@ -69,17 +70,17 @@ header .logo img {
 }
 @media (min-width: 768px) {
   #featured-authors .card .card-img-overlay h1 {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
   }
 }
 @media (min-width: 992px) {
   #featured-authors .card .card-img-overlay h1 {
-    font-size: 2.5rem;
+    font-size: 2.25rem;
   }
 }
 @media (min-width: 1200px) {
   #featured-authors .card .card-img-overlay h1 {
-    font-size: 2.25rem;
+    font-size: 1.75rem;
   }
 }
 // Profiles
