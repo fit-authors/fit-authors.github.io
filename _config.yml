@@ -45,6 +45,7 @@ collections:
       source: 'publications.csv'
 
 # Build settings
+permalink: pretty
 markdown: kramdown
 plugins:
   - jekyll-feed
