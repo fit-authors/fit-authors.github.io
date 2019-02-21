@@ -120,7 +120,7 @@ blockquote {
 #publications.card-columns #publication-card .card-subtitle {
   font-size: 1.25rem;
 }
-@media (min-width: 768px) {
+@media (min-width: 576px) {
   #publications.card-columns {
     column-count: 3;
     -webkit-column-count: 3;
@@ -133,11 +133,25 @@ blockquote {
     margin-bottom: 3rem;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
+  #publications.card-columns {
+    column-count: 4;
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+  }
+}
+@media (min-width: 992px) {
   #publications.card-columns {
     column-count: 5;
     -webkit-column-count: 5;
     -moz-column-count: 5;
+  }
+}
+@media (min-width: 1200px) {
+  #publications.card-columns {
+    column-count: 6;
+    -webkit-column-count: 6;
+    -moz-column-count: 6;
   }
 }
 #publications .modal .media img {

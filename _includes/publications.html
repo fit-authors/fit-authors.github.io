@@ -4,7 +4,7 @@
     {% if publication.url %}
     <img src="{{publication.url}}" alt="Cover of {{publication.title}}" class="card-img">
     {% else %}
-    <div class="card-body text-center">
+    <div class="card-body text-center p-3">
       <h1 class="card-title">{{ publication.title }}</h1>
       <h2 class="card-subtitle text-muted">{{ publication.name }}</h2>
     </div>
