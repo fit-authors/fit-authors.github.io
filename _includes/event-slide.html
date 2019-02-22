@@ -41,9 +41,9 @@
     </div>
     <div class="col-md-4">
       {% if event.image %}
-      <img class="img-fluid rounded" src="/assets/images/{{event.image}}" alt="{{event.author}} Event Image" />
+      <img class="img-fluid rounded" src="/assets/images/{{event.image}}" alt="{{event.authors[0]}} Event Image" />
       {% elsif event.author-image %}
-      <img class="img-fluid rounded" src="/assets/images/{{event.author-image}}" alt="Portrait of {{event.author}}" />
+      <img class="img-fluid rounded" src="/assets/images/{{event.author-image}}" alt="Portrait of {{event.authors[0]}}" />
       {% endif %}
     </div>
   </div>
