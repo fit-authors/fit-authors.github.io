@@ -1,7 +1,8 @@
 ---
 layout: event
 event_title: Julia Jacquette
-authors: Julia Jacquette
+authors:
+  - Julia Jacquette
 description: 'Associate Professor Julia Jacquette talks about her two books:
 Unrequited and Acts of Play and Playground of My Mind'
 location: Goodman Center, Library, 4th Fl, E435
