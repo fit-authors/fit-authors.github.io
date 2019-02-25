@@ -1,9 +1,7 @@
 <div class="card-columns" id="publications">
   {% for publication in site.data.publications %}
-  <a href="#" class="card" id="publication-card" data-toggle="modal" data-target="#publication-{{ publication.pid }}" role="button">
+  <a href="#" class="card" id="publication-card" data-toggle="modal" data-target="#publication-{{ publication.pid }}" role="button" aria-label="{{ publication.title }} by {{ publication.name }}">
     {% if publication.url %}
-    <h1 class="sr-only">{{ publication.title }}</h1>
-    <h2 class="sr-only">{{ publication.name }}</h2>
     <img src="{{publication.url}}" alt="Cover of {{publication.title}}" class="card-img">
     {% else %}
     <div class="card-body text-center p-3">
