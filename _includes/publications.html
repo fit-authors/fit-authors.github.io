@@ -14,11 +14,11 @@
   </a>
 
   <!-- Modal -->
-  <div class="modal fade" id="publication-{{ publication.pid }}" tabindex="-1" role="dialog" aria-labelledby="{{ publication.name }}" aria-hidden="true">
+  <div class="modal fade" id="publication-{{ publication.pid }}" tabindex="-1" role="dialog" aria-labelledby="publication-{{ publication.pid }}-title" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalCenterTitle">
+          <h5 class="modal-title" id="publication-{{ publication.pid }}-title">
             {{ publication.name }}
             {% if publication.department %}
             &nbsp;
@@ -77,8 +77,8 @@
 </div>
 <div class="row justify-content-center align-items-center pt-5" id="catalog-link">
   <div class="col-auto order-md-last">
-    <a class="text-muted" href="http://fit.sunyconnect.suny.edu:4690/F/?func=find-e&find_scan_code=FIND_WSU&request=FIT+authors&adjacent=N&x=35&y=8" target="_blank">
-      <i class="fas fa-book fa-3x float-left"></i>
+    <a class="text-muted" href="http://fit.sunyconnect.suny.edu:4690/F/?func=find-e&find_scan_code=FIND_WSU&request=FIT+authors&adjacent=N&x=35&y=8" target="_blank" aria-label="FIT Library Catalog">
+      <i class="fas fa-book fa-3x float-left" title="FIT Library Catalog" aria-hidden=""></i>
     </a>
   </div>
   <div class="col-8 col-md-auto order-md-first">
