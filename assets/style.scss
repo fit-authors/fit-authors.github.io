@@ -154,6 +154,9 @@ blockquote {
     -moz-column-count: 6;
   }
 }
+#publications .modal .modal-title, #publications .modal .media-title {
+  font-size: 1.25rem;
+}
 #publications .modal .media img {
   max-width: 150px;
 }

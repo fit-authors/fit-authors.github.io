@@ -16,13 +16,13 @@
     <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="publication-{{ publication.pid }}-title">
+          <h1 class="modal-title" id="publication-{{ publication.pid }}-title">
             {{ publication.name }}
             {% if publication.department %}
             &nbsp;
             <small class="text-muted">{{ publication.department }}</small>
             {% endif %}
-          </h5>
+          </h1>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -33,7 +33,7 @@
             <img class="mr-3" src="{{publication.url}}" alt="Cover of {{publication.title}}">
             {% endif %}
             <div class="media-body">
-              <h5 class="mt-0">{{ publication.title }}{% if publication.year %} <small class="text-muted">({{ publication.year }})</small>{% endif %}</h5>
+              <h2 class="mt-0 media-title">{{ publication.title }}{% if publication.year %} <small class="text-muted">({{ publication.year }})</small>{% endif %}</h2>
 
               {% if publication.description %}
                 {% assign size = publication.description | size %}
