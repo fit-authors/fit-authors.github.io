@@ -1,15 +1,15 @@
 <div class="card-columns" id="publications">
   {% for publication in site.data.publications %}
-  <div class="card" id="publication-card" data-toggle="modal" data-target="#publication-{{ publication.pid }}">
+  <a href="#" class="card" id="publication-card" data-toggle="modal" data-target="#publication-{{ publication.pid }}" role="button">
     {% if publication.url %}
     <img src="{{publication.url}}" alt="Cover of {{publication.title}}" class="card-img">
     {% else %}
     <div class="card-body text-center p-3">
-      <h1 class="card-title">{{ publication.title }}</h1>
+      <h1 class="card-title text-dark">{{ publication.title }}</h1>
       <h2 class="card-subtitle text-muted">{{ publication.name }}</h2>
     </div>
     {% endif %}
-  </div>
+  </a>
 
   <!-- Modal -->
   <div class="modal fade" id="publication-{{ publication.pid }}" tabindex="-1" role="dialog" aria-labelledby="{{ publication.name }}" aria-hidden="true">
@@ -42,7 +42,7 @@
                   {{ publication.description }}
                 </p>
                 <p id="description-button">
-                  <a class="text-primary small" data-toggle="collapse" data-target="#description-{{ publication.pid }}" aria-expanded="false" aria-controls="description-{{ publication.pid }}">
+                  <a href="#" role="button" class="text-primary small" data-toggle="collapse" data-target="#description-{{ publication.pid }}" aria-expanded="false" aria-controls="description-{{ publication.pid }}">
                   </a>
                 </p>
                 {% else %}
