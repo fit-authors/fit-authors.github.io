@@ -2,6 +2,8 @@
   {% for publication in site.data.publications %}
   <a href="#" class="card" id="publication-card" data-toggle="modal" data-target="#publication-{{ publication.pid }}" role="button">
     {% if publication.url %}
+    <h1 class="sr-only">{{ publication.title }}</h1>
+    <h2 class="sr-only">{{ publication.name }}</h2>
     <img src="{{publication.url}}" alt="Cover of {{publication.title}}" class="card-img">
     {% else %}
     <div class="card-body text-center p-3">
@@ -43,6 +45,7 @@
                 </p>
                 <p id="description-button">
                   <a href="#" role="button" class="text-primary small" data-toggle="collapse" data-target="#description-{{ publication.pid }}" aria-expanded="false" aria-controls="description-{{ publication.pid }}">
+                    <span class="sr-only">Expand</span>
                   </a>
                 </p>
                 {% else %}
