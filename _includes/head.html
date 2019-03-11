@@ -10,7 +10,7 @@
   </script>
 
   <!-- Canonical link to help search engines -->
-  <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}"/>
+  <link rel="canonical" href="https://authors.fitnyc.edu{{ page.url }}"/>
 
   <!-- Basic meta elements -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -19,15 +19,58 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}
-    {% elsif page.layout == "profile" %}
-      {{ page.name }}
-    {% else %}
-      {{ page.title }}
+
+
+
+  {% if page.title == "Home" %}
+    <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+    <title>{{ site.title }}</title>
+
+  {% elsif page.layout == "profile" %}
+    <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+    <title>{{ page.name }}</title>
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="{{ page.name }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://authors.fitnyc.edu{{ page.url }}">
+    {% if page.image %}
+    <meta property="og:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
     {% endif %}
-  </title>
+    <meta property="og:description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.name }}">
+    <meta name="twitter:description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+    {% if page.image %}
+    <meta name="twitter:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
+    {% endif %}
+
+  {% elsif page.layout == "event" %}
+    <meta name="description" content="{{ page.description }}">
+    <title>{{ page.event_title }}</title>
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="{{ page.event_title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://authors.fitnyc.edu{{ page.url }}">
+    {% if page.image %}
+    <meta property="og:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
+    {% endif %}
+    <meta property="og:description" content="{{ page.description }}">
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.event_title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    {% if page.image %}
+    <meta name="twitter:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
+    {% endif %}
+
+  {% else %}
+    <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+    <title>{{ page.title }}</title>
+  {% endif %}
+
 
   <!-- Icon -->
   <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
