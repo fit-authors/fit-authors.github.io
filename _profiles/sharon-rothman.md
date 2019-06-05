@@ -6,7 +6,7 @@ title: Assistant Professor
 division: School of Art and Design
 department: Fashion Design Department
 email: sharonrothman3@gmail.com
-website: www.sharonrothman.com
+website: http://www.sharonrothman.com/
 image: rothman.jpg
 about:
   - Professor at FIT for 25+ years

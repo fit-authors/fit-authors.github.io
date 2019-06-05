@@ -61,6 +61,9 @@ layout: default
       {% endif %}
     </h2>
     {% endif %}
+    {% if page.work.co-author %}
+    <p class="font-italic">Co-Author: {{page.work.co-author}}</p>
+    {% endif %}
     {% if page.work.summary %}
     <p>{{page.work.summary}}</p>
     {% endif %}
