@@ -1,4 +1,5 @@
 {% assign sorted = site.profiles | sort: 'interview' | reverse %}
 {% assign profiles = sorted | slice: 0, 12 | sort: 'name'  %}
+<h1 class="text-center mb-4" id="upcoming">Latest Profiles</h1>
 {% include profiles.html %}
 <p class="text-right lead" id="more-profiles"><a class="text-dark" href="/profiles">See More Profiles</a></p>

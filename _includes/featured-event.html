@@ -1,6 +1,7 @@
-{% assign sorted = site.events | sort: 'date' | reverse %}
-{% assign event = sorted[0] %}
-<div id="event-block" data-date="{{event.date}}">
-  {% include event-slide.html %}
-  <p class="text-right lead" id="more-events"><a class="text-dark" href="/events">See More Events</a></p>
-</div>
+{% assign sorted = site.events | sort: 'date' %}
+<h1 class="text-center mb-4" id="upcoming">Upcoming Events</h1>
+{% for event in sorted %}
+  <div class="event-block" data-date="{{event.date}}">
+    {% include event-slide.html %}
+  </div>
+{% endfor %}

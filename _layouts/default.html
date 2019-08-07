@@ -17,11 +17,22 @@
   {% if page.title == "Home" %}
     <script type="text/javascript">
       var current = new Date();
-      var eventdate = new Date($('#event-block').data('date'));
-      // Add 1 to date to make sure it still displays the day of event
-      eventdate.setDate(eventdate.getDate() + 1);
-      if (current > eventdate) {
-        $('#event-block').remove();
+      var upcoming = false;
+      $(".event-block").each(function(index) {
+        var eventdate = '';
+        eventdate = new Date($(this).data('date'));
+        // Add 1 to date to make sure it still displays the day of event
+        eventdate.setDate(eventdate.getDate() + 1);
+        console.log(eventdate);
+        if (current > eventdate) {
+          $(this).detach();
+        }
+        else {
+          upcoming = true;
+        }
+      });
+      if (upcoming == false) {
+        $("#upcoming").detach();
       }
     </script>
   {% endif %}
