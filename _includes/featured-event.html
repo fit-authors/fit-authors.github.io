@@ -1,7 +1,7 @@
 {% assign sorted = site.events | sort: 'date' %}
 <h1 class="text-center mb-4" id="upcoming">Upcoming Events</h1>
 {% for event in sorted %}
-  <div class="event-block" data-date="{{event.date}}">
+  <div class="event-block" data-date="{{event.date | date: "%Y-%m-%d"}}">
     {% include event-slide.html %}
   </div>
 {% endfor %}
