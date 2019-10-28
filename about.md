@@ -8,7 +8,7 @@ FIT Authors is a collaboration between the Faculty Senate Library Committee and 
 
 ## Submissions
 
-All members of the FIT community (faculty, staff, and alumni) are encouraged to take part in FIT Authors. If you are the author of a published work (any medium is welcome), please fill out the questionnaire below to be featured in a profile. In addition, please consider [donating](mailto:libacquisition@fitnyc.edu) a copy of your book to the Library's collection. Thanks for your interest!
+All members of the FIT community (faculty, staff, and alumni) are encouraged to take part in FIT Authors. If you are the author of a published work—any medium is welcome—please fill out the questionnaire below to be featured in a profile. In addition, please consider [donating](mailto:libacquisition@fitnyc.edu) a copy of your book to the Library's collection. Thanks for your interest!
 
 <div class="embed-responsive embed-responsive-7by5 mt-5">
   <iframe class="embed-responsive-item" src="https://docs.google.com/forms/d/e/1FAIpQLSf0eo6ngiX8nQC4tTxoaDvK-T5d9UVSDCVrtvHeUOZ719ky4Q/viewform?embedded=true" width="640" height="1309">Loading…</iframe>
