@@ -65,7 +65,7 @@ layout: default
     <p class="font-italic">Co-Author: {{page.work.co-author}}</p>
     {% endif %}
     {% if page.work.summary %}
-    <p>{{page.work.summary}}</p>
+    <p>{{page.work.summary | markdownify}}</p>
     {% endif %}
   </div>
   <div class="col-md-4">
