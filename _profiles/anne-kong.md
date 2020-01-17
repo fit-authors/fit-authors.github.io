@@ -18,7 +18,13 @@ work:
   title: Visual Merchandising and Display
   subtitle: 7th Edition
   co-author: Martin M. Pegler
-  summary: This new edition of the best-selling text is for anyone working in and learning about the exciting industry of visual merchandising. Martin Pegler and new co-author Anne Kong (FIT) zero in on all aspects of visual merchandising and display, from classic techniques to the most avant-garde developments. Using hundreds of examples from around the world, this text reveals how retailers can optimize their image with their target marketing by adding interest to window and interior displays. New sections on branding have been added to select chapters to guide readers toward ways of incorporating this important topic into their visual merchandising strategy.
+  summary: |
+    This new edition of the best-selling text is for anyone working in and learning about the exciting industry of visual merchandising. Martin Pegler and new co-author Anne Kong (FIT) zero in on all aspects of visual merchandising and display, from classic techniques to the most avant-garde developments. Using hundreds of examples from around the world, this text reveals how retailers can optimize their image with their target marketing by adding interest to window and interior displays. New sections on branding have been added to select chapters to guide readers toward ways of incorporating this important topic into their visual merchandising strategy.
+    - Contains six new case studies and extensively revised and updated images
+    - Updated chapters on lighting, fixtures, and interactive media reflecting the latest technology and practices
+    - Expanded sections on store planning including more information about CAD programs, floor plans and planograms
+    - New sections on Tools for Getting a Job including creating your own website and using platforms like Behance to showcase your portfolio
+    - Updated and new Go Green boxes discuss current topics in sustainability and visual merchandising
   type: book
   image: kong-cover.jpg
   fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/ec66hq/alma990001614170204829

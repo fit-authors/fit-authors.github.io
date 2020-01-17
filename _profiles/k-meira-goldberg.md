@@ -16,7 +16,10 @@ about:
 work:
   title: Sonidos Negros
   subtitle: On the Blackness of Flamenco
-  summary: "How is the politics of Blackness figured in the flamenco dancing body? What does flamenco dance tell us about the construction of race in the Atlantic world? Sonidos Negros traces how, in the span between 1492 and 1933, the vanquished Moor became Black, and how this figure, enacted in terms of a minstrelized Gitano, paradoxically came to represent Spain itself. The imagined Gypsy about which flamenco imagery turns dances on a knife's edge delineating Christian and non-Christian, White and Black worlds. This figure's subversive teetering undermines Spain's symbolic linkage of religion with race, a prime weapon of conquest. Flamenco's Sonidos Negros live in this precarious balance, amid the purposeful confusion and ruckus cloaking embodied resistance, the lament for what has been lost, and the values and aspirations of those rendered imperceptible by enslavement and colonization."
+  summary: |
+    How is the politics of Blackness figured in the flamenco dancing body? What does flamenco dance tell us about the construction of race in the Atlantic world? Sonidos Negros traces how, in the span between 1492 and 1933, the vanquished Moor became Black, and how this figure, enacted in terms of a minstrelized Gitano, paradoxically came to represent Spain itself.
+
+    The imagined Gypsy about which flamenco imagery turns dances on a knife's edge delineating Christian and non-Christian, White and Black worlds. This figure's subversive teetering undermines Spain's symbolic linkage of religion with race, a prime weapon of conquest. Flamenco's Sonidos Negros live in this precarious balance, amid the purposeful confusion and ruckus cloaking embodied resistance, the lament for what has been lost, and the values and aspirations of those rendered imperceptible by enslavement and colonization.
   type: book
   image: goldberg-cover.jpg
   fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma990001620300204829

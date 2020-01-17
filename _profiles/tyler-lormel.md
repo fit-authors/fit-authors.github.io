@@ -15,7 +15,10 @@ about:
 
 work:
   title: The Most Popular Freak in School
-  summary: "A modern retelling of a classic fairy tale through the writing of queer youth. High School is hard enough as it is, but when you're queer it can be even more difficult to find where you belong. Crystal finds pride in being the only openly trans student in her class. She writes her own story until she is totally caught off guard by someone who she believes might be her Prince Charming. Knocked down by heartbreak, bullying, and struggles with identity, Crystal continues to write out her own fairy tale and hopes it leads her to a better happy ending."
+  summary: |
+    A modern retelling of a classic fairy tale through the writing of queer youth.
+
+    High School is hard enough as it is, but when you're queer it can be even more difficult to find where you belong. Crystal finds pride in being the only openly trans student in her class. She writes her own story until she is totally caught off guard by someone who she believes might be her Prince Charming. Knocked down by heartbreak, bullying, and struggles with identity, Crystal continues to write out her own fairy tale and hopes it leads her to a better happy ending.
   type: book
   image: lormel-cover.jpg
   fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma991680800104829
