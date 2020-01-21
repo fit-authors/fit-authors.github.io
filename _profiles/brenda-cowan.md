@@ -9,7 +9,7 @@ email: brenda_cowan@fitnyc.edu
 website: https://www.psychotherapeuticobjectdynamics.com/
 image: cowan.jpg
 about:
-  - 'Time to publication: 6 years'
+  - 'Time to publication: 2 years'
   - Professor at FIT since 2007
 
 work:
