@@ -3,7 +3,7 @@ layout: profile
 name: Richie Narvaez
 interview: 2020-02
 title: Adjunct Assistant Professor
-division: School of Graduate Studies
+division: School of Liberal Arts
 department: English and Communication Studies
 email: richie_narvaez@fitnyc.edu
 website: https://www.richienarvaez.com/
