@@ -67,6 +67,18 @@ layout: default
     {% if page.work.summary %}
     {{page.work.summary | markdownify}}
     {% endif %}
+    <ul class="nav mb-3 mb-md-0">
+      {% if page.work.fit-url %}
+      <li class="nav-item">
+        <a class="nav-link text-muted p-0 mr-5" href="{{ page.work.fit-url }}" target="_blank"><small>Find in the FIT Library <i class="fas fa-external-link-alt"></i></small></a>
+      </li>
+      {% endif %}
+      {% if page.work.website %}
+      <li class="nav-item">
+        <a class="nav-link text-muted p-0" href="{{ page.work.website }}" target="_blank"><small>Visit official website <i class="fas fa-external-link-alt"></i></small></a>
+      </li>
+      {% endif %}
+    </ul>
   </div>
   <div class="col-md-4">
     {% if page.work.image %}

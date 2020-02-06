@@ -20,6 +20,7 @@ work:
   type: book
   image: vatner-cover.jpg
   fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma991675593504829
+  website: https://us.macmillan.com/books/9781250174765
   isbn: 9781250174765
 ---
 ***How did you first come up with the idea for this work?***  

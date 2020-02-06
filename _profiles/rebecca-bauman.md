@@ -18,8 +18,9 @@ work:
   type: article
   in:
     title: Journal of Italian Cinema & Media Studies, vol. 6, no. 2 (June 2018)
-    url: https://www.intellectbooks.co.uk/journals/view-issue,id=3478/
   image: bauman-cover.jpg
+  website: https://www.intellectbooks.com/journal-of-italian-cinema-media-studies
+  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma990001612880204829
 ---
 ***How did you come up with the idea?***  
 I was always frustrated about there being so little written about the topic, but I became determined to write an article about it while teaching the TV show "La piovra" in my Mafia Movies class at FIT.

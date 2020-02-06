@@ -14,10 +14,12 @@ about:
   - Teaches painting classes
 
 work:
-  title: Unrequited & Acts of Play
+  title: Unrequited and Acts of Play
   summary: "Julia Jacquettes's first major monograph presents an artistic exploration through the materialism, elitism, and idealization of past and contemporary society. Through her richly detailed paintings featuring imagery drawn from advertisements, New York-based artist Julia Jacquette addresses the challenges of navigating the contemporary media landscape that so directly influences our sense of personal identity and self-worth. Exposing our seemingly insatiable longing for a life that is purely a construct of the advertising industry, Jacquette's work focuses on commercialized objects of desire: prepared meals drawn from 1950s cookbook illustrations, ornate interiors of the wealthy sampled from contemporary lifestyle magazines, shimmering swimming pools extracted from luxury ad campaigns. These material trappings are presented, often close up, in works that convey the pervasiveness of such evocative imagery."
   type: book
   image: jacquette-cover.jpg
+  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma990001600290204829
+  website: https://prestelpublishing.randomhouse.de/book/Julia-Jacquette/Tracy-Adler/Prestel-com/e526912.rhd
 ---
 ***How did you come up with the idea?***  
 The monograph accompanies my recent retrospective which included my artwork from approximately the last 10 years. The artwork included is my visual commentary on the beauty and manipulative powers of current media imagery.

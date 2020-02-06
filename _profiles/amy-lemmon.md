@@ -21,6 +21,7 @@ work:
   type: book
   image: lemmon-cover.jpg
   fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma991678600104829
+  website: https://www.crpress.org/shop/the-miracles/
   isbn: 9781949540000
 ---
 ***How did you first come up with the idea for this work?***  

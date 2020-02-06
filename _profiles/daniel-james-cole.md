@@ -20,6 +20,7 @@ work:
   type: book
   image: cole-cover.jpg
   fit-url: https://fit.sunyconnect.suny.edu:4699/F?func=direct&doc_number=000151768
+  website: https://www.laurenceking.com/us/product/the-history-of-modern-fashion/
   isbn: 9781780676036
 ---
 ***How did you come up with the idea?***  

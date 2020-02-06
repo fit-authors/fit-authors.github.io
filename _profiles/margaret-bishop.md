@@ -17,6 +17,8 @@ work:
   summary: Technology has put power in consumer's hands, revolutionizing how they learn about and purchase products. Business today demands customer-first, value-driven marketing. This textbook examines apparel and home textile value chain marketing. Readers explore contemporary issues and technology to facilitate and safeguard marketing success. This book addresses design, production, and sourcing in marketing goods consumers want and can afford. With apparel and home textile industries spanning six continents, this textbook presents importing, compliance, and sustainability; it addresses big data, branding, and communications. From concept to consumer, this book gives the reader an understanding of marketing across the textile value chain.
   type: book
   image: bishop-cover.jpg
+  website: https://glasstree.com/shop/catalog/textile-value-chain-marketing-2nd-edition_1168/
+  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma991687900104829
 ---
 ***How did you come up with the idea?***  
 I searched for an appropriate and current textbook for the course and could not find any that were adequate and up to date.

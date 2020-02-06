@@ -1,7 +1,7 @@
 ---
 layout: profile
 name: Brenda Cowan
-interview: 2019-01
+interview: 2020-01
 title: Associate Professor
 division: School of Graduate Studies
 department: Exhibition & Experience Design
@@ -23,6 +23,7 @@ work:
     Museum Objects, Health and Healing will be essential reading for academics, researchers and postgraduate students interested in museum studies, material culture, mental health, psychotherapy, art therapies and anthropology. It should also be valuable reading for a wide range of practitioners, including curators, exhibition designers, psychologists, and psychotherapists.
   type: book
   image: cowan-cover.jpg
+  website: https://www.routledge.com/Museum-Objects-Health-and-Healing-The-Relationship-between-Exhibitions/Cowan-Laird-McKeown/p/book/9781138606203
   isbn: 9781138606203
 ---
 ***How did you first come up with the idea for this work?***  

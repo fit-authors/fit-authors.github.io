@@ -19,6 +19,8 @@ work:
   summary: Focused on themes of isolation, desire, conflict and empowerment, Ron Amato's photographic series and book, The Box, speaks to human experiences of self-discovery and community building. Using a series of boxes to create visual metaphors, Ron echoes his development from adolescence to adulthood through over 100 color, and black and white photographs. Evoking first his youth in Brooklyn, New York during the 1960s and 1970s, moving through his coming out as a gay man and to his present position as a respected professional photographer and teacher, Ron creates a vivid portrait of struggle and triumph.
   type: book
   image: amato-cover.jpg
+  website: http://www.ronamato.com/the-box-book/
+  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma990001579900204829
 ---
 ***How did you come up with the idea?***  
 I had been wanting to use a box to represent adversity for a long time.

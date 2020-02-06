@@ -7,7 +7,6 @@ division: School of Art and Design
 department: Fine Arts
 email: tyler_lormel@fitnyc.edu
 instagram: crystal.tyler.nyc
-website: https://www.instagram.com/tylerlormel/
 image: lormel.jpg
 about:
   - 'Time to publication: 1 year'
@@ -22,6 +21,7 @@ work:
   type: book
   image: lormel-cover.jpg
   fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma991680800104829
+  website: https://www.instagram.com/tylerlormel/
   isbn: 9781688994713
 ---
 ***How did you first come up with the idea for this work?***  

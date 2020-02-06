@@ -23,6 +23,7 @@ work:
   type: book
   image: goldberg-cover.jpg
   fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma990001620300204829
+  website: https://global.oup.com/academic/product/sonidos-negros-9780190466916?cc=us&lang=en&
   isbn: 9780190466916
 ---
 ***How did you first come up with the idea for this work?***  

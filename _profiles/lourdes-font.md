@@ -21,6 +21,8 @@ work:
     subtitle: Rediscovering 20th-Century Women Designers
     creator: Nancy Deihl (editor)
   image: font-cover.jpg
+  website: https://www.bloomsbury.com/us/the-hidden-history-of-american-fashion-9781350104075/
+  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma990001604660204829
 ---
 ***How did you come up with the idea?***  
 I was asked to contribute to an edited volume; I had already written about the subject as part of a larger project.

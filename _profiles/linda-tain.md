@@ -16,6 +16,8 @@ work:
   summary: Portfolio Presentation for Fashion Designers, Fourth Edition, is still your best guide to showing your designs, skill sets, and creativity, to get you that job. In new images throughout, the book shows examples of croquis books, spec and flat drawings, and visual research presentations from both fashion professionals and students. From concept through finished product, Portfolio Presentation for Fashion Designers is an indispensable tool to help you prepare your career for the next chapter. Included are projects that address global issues such as sustainability, social responsibility, and artisanal skills.
   type: book
   image: tain-cover.jpg
+  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/ec66hq/alma990001603090204829
+  website: https://www.bloomsbury.com/us/portfolio-presentation-for-fashion-designers-9781501322983/
 ---
 ***How did you come up with the idea?***  
 Twenty years ago there were no books on Portfolio Presentation. A colleague in Fashion Design encouraged me to write it as a guide for students & as a tool for teaching techniques. Although technology has altered the industry considerably, hands-on skills still play an essential role. The ultimate portfolio consists of a distinct blend of technology, informational design skills & the designer's personal vision.

@@ -8,7 +8,6 @@ department: Visual Presentation and Exhibition Design
 email: anne_kong@fitnyc.edu
 instagram: Iamprofessorkong
 twitter: anne_kong
-website: http://www.annekongfitportfolio.com/
 image: kong.jpg
 about:
   - 'Time to publication: 2 years'
@@ -28,6 +27,7 @@ work:
   type: book
   image: kong-cover.jpg
   fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/ec66hq/alma990001614170204829
+  website: http://www.annekongfitportfolio.com/
   isbn: 9781501315299
 ---
 ***How did you first come up with the idea for this work?***  

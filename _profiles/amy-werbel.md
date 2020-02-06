@@ -20,7 +20,8 @@ work:
   summary: Anthony Comstock was America's first professional censor. From 1873 to 1915, as Secretary of the New York Society for the Suppression of Vice, Comstock led a crusade against lasciviousness, salaciousness, and obscenity that resulted in the confiscation and incineration of more than three million pictures, postcards, and books he judged to be obscene. But as Amy Werbel shows in this rich cultural and social history, Comstock's campaign to rid America of vice in fact led to greater acceptance of the materials he deemed objectionable, offering a revealing tale about the unintended consequences of censorship.
   type: book
   image: werbel-cover.jpg
-  fit-url: https://fit.sunyconnect.suny.edu:4699/F?func=direct&doc_number=000160209
+  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma990001602090204829
+  website: https://cup.columbia.edu/book/lust-on-trial/9780231175227
   isbn: 9780231175227
 ---
 ***How did you come up with the idea?***  

@@ -19,6 +19,8 @@ work:
   summary: Fashion Forward demystifies the exciting career of a fashion forecaster and fosters skills that will benefit any design professional. The book begins with an overview of fashion forecasting theories and concepts and then leads readers through a step-by-step guide to creating and presenting a forecast. The authors reveal the inner workings of global fashion forecasting through real-world examples and interviews with both influential forecasters and the designers who rely upon them. Fashion Forward enables readers to start spotting tomorrow's trends today and compellingly communicate them—both visually and verbally—to inspire fashion innovators.
   type: book
   image: ostroff-cover.jpg
+  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/ec66hq/alma990001603070204829
+  website: https://www.bloomsburyfashioncentral.com/products/fairchild-books/shop/fashion-forward-a-guide-to-fashion-forecasting-1
 ---
 ***How did you come up with the idea?***  
 It is a 2nd edition of a book that was already published. It was outdated but I liked the bones of the book and wanted to use for my classes. So I approached the publisher who introduced me to the author of the 1st edition.
