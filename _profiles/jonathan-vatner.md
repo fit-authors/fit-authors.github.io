@@ -2,7 +2,7 @@
 layout: profile
 name: Jonathan Vatner
 interview: 2019-12
-title: Staff Writer
+title: Managing Editor
 division: Communications and External Relations
 department: Hue magazine
 email: jonathan_vatner@fitnyc.edu
@@ -12,7 +12,7 @@ website: http://www.jonathanvatner.com/
 image: vatner.jpg
 about:
   - 'Time to publication: 5 years'
-  - Staff writer at FIT since 2011
+  - Managing Editor at FIT since 2011
 
 work:
   title: Carnegie Hill
