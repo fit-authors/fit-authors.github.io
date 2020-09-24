@@ -12,7 +12,7 @@ layout: default
     <p class="font-italic">{{page.description}}</p>
     <p class="lead text-center my-5">
       {{page.date | date: "%A, %B %e, %Y" }} | {{page.time}}<br>
-      {{page.location}}{% if page.event_details %}*{% endif %}
+      {{page.location | markdownify | remove: '<p>' | remove: '</p>'}}{% if page.event_details %}*{% endif %}
       {% if page.map %}
       <!-- Map Button -->
       <a class="text-muted" id="map-button" aria-label="Map" data-toggle="modal" data-target="#mapModal">

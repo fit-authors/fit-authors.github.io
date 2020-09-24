@@ -9,7 +9,7 @@
         {{event.event_title}}
       </h1>
       <p>
-        {{event.location}}{% if event.event_details %}*{% endif %}
+        {{event.location | markdownify | remove: '<p>' | remove: '</p>'}}{% if event.event_details %}*{% endif %}
         {% if event.map %}
         <!-- Map Button -->
         <a class="text-muted" id="map-button" aria-label="Map" data-toggle="modal" data-target="#mapModal-{{event.date | date: "%Y%m%d"}}">
