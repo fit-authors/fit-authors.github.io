@@ -34,7 +34,7 @@ work:
 I have been an advisor to Martin M. Pegler and VMD4-6 for many years.  Martin asked me to overhaul and update the 7th edition text.
 
 ***What was your research process like?***  
-Intense. Retail and visual merchandising is changing faster than the speed of light, so eliminated several chapters and added new ones to update and refresh.
+Intense. Retail and visual merchandising is changing faster than the speed of light, so I eliminated several chapters and added new ones to update and refresh.
 
 ***Does this work relate to your role at FIT? If so, how?***  
 This texbook relates directly to the courses we teach at FIT in Visual Presentation and Exhibition Design Program. I am also an active designer so I was able to use all of my industry connections. I serve on the executive board of [PAVE Global](http://paveglobal.org/) and my work there influenced the book as well.
