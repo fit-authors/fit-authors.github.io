@@ -2,7 +2,7 @@
 layout: profile
 name: Helen Lane
 interview: 2021-04
-title: Instructional Design Librarian
+title: Assistant Professor and Instructional Design Librarian
 division: Gladys Marcus Library
 department: Research & Instructional Services
 email: helen_lane@fitnyc.edu
