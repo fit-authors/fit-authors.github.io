@@ -6,7 +6,7 @@ authors:
 event_title: 'Carli Spina and Helen Lane'
 description: "Associate Professor/Head of Research & Instructional Services, Carli Spina, and Assistant Professor/Instructional Design Librarian, Helen Lane, talk about their new book, E-Textiles in Libraries: A Practical Guide for Librarians"
 location: |
-  [Webex Event](https://fitnyc.webex.com/fitnyc/onstage/g.php?MTID=ed4795f7ae89bc66a4640d6867cd22e3c)
+  [Webex Event](https://fitnyc.webex.com/fitnyc/j.php?MTID=mb04442f490518da4c816083188059147)
 
 event_details: Viewers do not need an account with WebEx to access this event. After clicking the link, the event can be viewed either through your web browser or by downloading the WebEx desktop application. If this is your first time using WebEx, please plan on joining the event several minutes before the starting time to troubleshoot any issues.
 time: 5pm - 6pm
