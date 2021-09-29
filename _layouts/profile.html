@@ -84,6 +84,11 @@ layout: default
     {% if page.work.image %}
     <img class="img-fluid rounded" src="/assets/images/{{page.work.image}}" alt="Cover of {{page.work.title}}" />
     {% endif %}
+    {% if page.work.video %}
+    <div class="embed-responsive embed-responsive-4by3">
+      <iframe class="embed-responsive-item" src="{{page.work.video}}" allowfullscreen></iframe>
+    </div>
+    {% endif %}
   </div>
 </div>
 <div class="row align-items-center justify-content-between" id="interview-block">
