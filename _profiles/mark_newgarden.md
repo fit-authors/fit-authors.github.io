@@ -27,17 +27,18 @@ work:
   isbn: 9781606993613
 ---
 ***How did you first come up with the idea for this work?***  
-Originally published as an essay in 1988.
+*How to Read Nancy* was originally published as an essay in 1988 and developed during a semester that my co-author and I were teaching a comics class together.
 
 ***What was your research process like?***  
-Laborious.
+It was laborious. We interviewed dozens of people and combed private collections & archives worldwide for high resolution scans of hardcopy primary documents.
 
 ***How long did you work on this before it was published?***  
-Decades in the making.
+Our book was literally decades in the making. The original 1988 essay became a staple in comics classes and we decided to expand it into a book length treatment. We thought it would be a sprint but the deeper we dug, the more there was to discover. It was almost another decade before we held an actual printed book in our hands.
 
 ***Does this work relate to your role at FIT? If so, how?***  
-It relates directly to my teaching practice (comics, storytelling, comics history).
+*How to Read Nancy* relates directly to my teaching practice (comics, storytelling, comics history).
 
 ***What was your biggest challenge? What was most rewarding?***  
-Research and long distance collaboration.  
-The Eisner Awards Winner: Best Comics-Related Book 2018
+The research and long-distance collaboration (Mark Lives in Brooklyn and Paul lives on Martha’s Vineyard.)
+
+It was very rewarding to be recognized by our peers with an Eisner Award for the Best Comics-Related Book of 2018.
