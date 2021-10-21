@@ -23,7 +23,6 @@ work:
   website: https://he.kendallhunt.com/product/complete-book-technical-design-technical-and-fashion-designers
   isbn: 9781792475740
 ---
-
 ***Does this work relate to your role at FIT? If so, how?***  
 It is a book used in Technical Design, and they use it in the industry as well.
 
