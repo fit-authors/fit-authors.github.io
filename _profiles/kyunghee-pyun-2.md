@@ -1,7 +1,7 @@
 ---
 layout: profile
 name: Kyunghee Pyun (Part 2)
-interview: 2021-06
+interview: 2020-06
 title: Associate Professor
 division: School of Liberal Arts
 department: History of Art
@@ -33,4 +33,4 @@ By reading contributing essays, I learned so much and improved my vision of Kore
 I started a new course, HA240 Modern and Contemporary Korean Art in the fall of 2021. I envisioned this book from the beginning to be a textbook for this course.  
 
 ***What was your biggest challenge? What was most rewarding?***  
-Getting image permissions was a challenge. Some works were in the public domain while others were in private estate. It was a pleasure to convene amazing scholars together for this project. 
+Getting image permissions was a challenge. Some works were in the public domain while others were in private estate. It was a pleasure to convene amazing scholars together for this project.
