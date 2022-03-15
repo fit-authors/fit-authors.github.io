@@ -1,7 +1,11 @@
 {% assign sorted = site.events | sort: 'date' %}
+{% assign yesterday = "now" | date: "%s" | minus: 86400 %}
 <h1 class="text-center mb-4" id="upcoming">Upcoming Events</h1>
 {% for event in sorted %}
-  <div class="event-block" data-date="{{event.date | date: "%Y-%m-%d"}}">
-    {% include event-slide.html %}
-  </div>
+{% assign eventDate = event.date | date: "%s" | minus: 0 %}
+{% if eventDate > yesterday %}
+<div class="event-block" data-date="{{eventDate | date: "%Y-%m-%d"}}">
+  {% include event-slide.html %}
+</div>
+{% endif %}
 {% endfor %}
