@@ -40,5 +40,5 @@ Poetry relates to anything.
 ***What was your biggest challenge? What was most rewarding?***  
 I am Italian, and compose poetry in Italian. English is my second language. Writing in another language and being published by an American publisher, as well as appreciated by mother-tongue readers and critics, is the biggest reward for me. The biggest challenge was to get published, considering how hard it is for poetry to make it to the bookstores nowadays without paying publishers, or succumbing to self-publishing.
 
-***Is there other information we should know?***
+***Is there other information we should know?***  
 I am also a novelist in Italian. "L'istante largo" came out for Bollati & Boringhieri in 2020 and received the second prize of Severino Cesari National Award for Debut Novel 2021. I was invited in Perugia for the awarding ceremony last October. My new novel, "La notte del bene", will come out this coming May, and I will be in Italy for the promotional tour right after the Spring semester ends.
