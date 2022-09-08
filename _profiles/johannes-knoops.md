@@ -17,7 +17,7 @@ work:
     Aldus Pius Manutius was a humanist, educator and publisher who revolutionized the world of printing. He is considered the father of the modern paperback. He even gave us the first italic fonts. Despite its formidable reputation, the Aldine Press’s first location in Venice has been in scholarly dispute ever since 1828. This booklet firmly establishes the press’s true location.
   type: book
   image: knoops-cover.jpg
-  isbn: 9781646570072
+  isbn: 9788894322323
 ---
 ***How did you first come up with the idea for this work?***  
 A curator suggested I review his suspicions because of my knowledge of architecture.
