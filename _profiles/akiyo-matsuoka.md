@@ -12,7 +12,7 @@ about:
   - Professor at FIT since Fall 2012
 
 work:
-  title: The Essential Guide for Digital Jewelry Design
+  title: The Essential Guide to Digital Jewelry Design
   co-author: Eva Tucek, Atsuo Nakajima
   summary: |
     This book introduces the world of CAD Jewelry Design using Rhino, the most versatile 3D modeling program and Grasshopper plug-in which is integrated into the newest versions of Rhino.
