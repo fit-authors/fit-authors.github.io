@@ -29,19 +29,19 @@ work:
   isbn: 9798521738304
 ---
 ***How did you first come up with the idea for this work?***  
-During the first British lockdown for the COVID-19 Pandemic in Spring 2020, it suddenly popped into my head.
+I was doing research into the Regency period in connection with work on a garment once belonging to Jane Austen. It was frustrating that there was no single-volume good book covering this rich and exciting era of clothing history, so I decided to write one. My time period became the ‘long’ Regency, around 1795-1825. It was natural to connect it with the life and work of Jane Austen as she is the quintessential Regency author, and so many people come to dress of the period through adaptations of her work.
 
 ***What was your research process like?***  
-This work builds on years of extensive research into letters, books, documents, objects, accounts, and artworks on the Regency period, drawing them together in new ways.
+I looked at absolutely everything I could get my hands on to do with Regency-era clothing, both primary and secondary sources. Dress is so essential to human culture, and appears in so many ways in texts and images, no source was too obscure to try. I read on military and medical history, in housekeeping texts, customs reports, many minor novels, and much more. Images came from caricatures, anthropological studies and washing bills as well as traditional portraits and fashion plates. I wanted to start fresh on the topic, and surprise myself with what I found. I also studied many original Regency garments very closely to understand the bigger picture contained in the smallest details.
 
 ***How long did you work on this before it was published?***  
-Jane Austen's Wardrobe only took a year to write, but it is based on a decade of research into the subject earlier.
+I spent five years in researching this, across Britain and Australia, then another year in pre-production making all the text and images look beautiful together.
 
 ***Does this work relate to your role at FIT? If so, how?***  
-Yes. As Chair of the MA Fashion and Textile Studies, this is an example of new research in the field which builds on object-centred research and adds to the rich history of dress the program promotes.
+As Chair of the MA Fashion and Textile Studies, this is an example of new research in the field which builds on object-centred research and adds to the rich history of dress the program promotes. I wrote a book that will form a good accessible yet authoritative scholarly text for students to start engaging with Regency clothing culture.
 
 ***What was your biggest challenge? What was most rewarding?***  
-The pandemic! It made access to many in person sources difficult, but also highlighted how far digital resources have developed which helped fill the gaps. It's rewarding to discover new information about Jane Austen, an incredibly well-studied woman, yet there's still things we don't know.
+The breadth of scope I set myself. The book covers everything from mundane underwear to global trade and politics, so I always felt there was more I could be researching. It’s rewarding to discover new information about Jane Austen, one of the world’s most biographies people. Studying her life and contexts from the clothing perspective turned up a number of new insights and information.
 
 ***Is there other information we should know?***  
-_Dress in the Age of Jane Austen_ is the first full length scholarly work on Regency fashion. Its follow up, _Jane Austen's Wardrobe_, will dive into the clothing of the author herself, and forms the first systematic exploration of her wardrobe. 
+_Dress in the Age of Jane Austen_ is the first full-length scholarly work on Regency fashion. Its follow up, _Jane Austen’s Wardrobe_ (September 2023) will dive into the clothing of the author herself, and form the first systematic exploration of her wardrobe.
