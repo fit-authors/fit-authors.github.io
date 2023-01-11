@@ -16,7 +16,7 @@ about:
 work:
   title: Dress in the Age of Jane Austen / Jane Austen's Wardrobe
   summary: |
-    A comprehensive and beautifully illustrated examination of dress, clothing, fashion, and sewing in the Regency seen through the lens of Jane Austen’s life and writings
+    A comprehensive and beautifully illustrated examination of dress, clothing, fashion, and sewing in the Regency seen through the lens of Jane Austen’s life and writings.
 
     This lively book reveals the clothing and fashion of the world depicted in Jane Austen’s beloved books, focusing on the long Regency between the years 1795 and 1825. During this period, accelerated change saw Britain’s turbulent entry into the modern age, and clothing reflected these transformations. Starting with the intimate perspective of clothing the self, Dress in the Age of Jane Austen moves outward through the social and cultural spheres of home, village, countryside, and cities, and into the wider national and global realms, exploring the varied ways people dressed to inhabit these environments. Jane Austen’s famously observant fictional writings, as well as her letters, provide the entry point for examining the Regency age’s rich complexity of fashion, dress, and textiles for men and women in their contemporary contexts.
 
