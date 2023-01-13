@@ -17,7 +17,7 @@ work:
   summary: |
     Merchants of Style explores the accelerating convergence of art and fashion, looking at the interplay of artists and designers – and the role of institutions, both public and commercial – that has brought about this marriage of aesthetic industries. Natasha Degen argues that one figure more than any other anticipated this moment: Andy Warhol. Beginning with an overview of art and fashion’s deeply entwined histories before picking up where Warhol left off, Merchants of Style tells the story of art’s emboldened forays into commerce and fashion’s growing embrace of art. As the two industries draw closer together than ever before, this book addresses urgent questions about what the future holds.
   type: book
-  image: degen-cover.jpg
+  image: degen-cover-2.jpg
   website: https://press.uchicago.edu/ucp/books/book/distributed/M/bo199165707.html
 ---
 ***How did you first come up with the idea for this work?***  
