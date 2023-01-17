@@ -1,6 +1,6 @@
 ---
 layout: profile
-name: Dr. Chloe M. Martin
+name: Chloe M. Martin
 interview: 2023-01
 title: Assistant Professor
 division: School of Liberal Arts
