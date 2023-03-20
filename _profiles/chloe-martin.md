@@ -16,15 +16,13 @@ work:
   title: The Impact of Social Support on Psychological Distress Among Black Breast Cancer Survivors
   subtitle: The Mediating Role of Fear of Recurrence
   summary: |
-    Purpose: To examine the effect of social support (SS) on psychological distress (depression and anxiety) among Black breast cancer survivors (BBCS), and the possible mediating effect of fear of recurrence (FOR) on this relationship. 
+    Purpose: We examined the effect of social support (SS) on psychological distress among Black breast cancer survivors (BBCS), and tested fear of recurrence (FOR) as a mediator in this relationship.
 
-    Methods:  Sixty-four BBCS (M = 57.8 years) completed a questionnaire assessing socio-demographic/clinical characteristics, psychological distress (Hospital Anxiety and Depression Scale [HADS-Anxiety and HADS-Depression]), social support (Duke-UNC Functional Social Support Questionnaire [FSSQ]), and FOR (Concerns About Recurrence Scale).  Mediation was tested using PROCESS for SPSS.
+    Methods: Sixty-four BBCS (M = 57.8 years) completed a questionnaire assessing socio-demographic/clinical characteristics, psychological distress (Hospital Anxiety and Depression Scale), social support (Duke-UNC Functional Social Support Questionnaire), and FOR (Concerns About Recurrence Scale). Statistical analyses were performed using PROCESS for SPSS.
 
-    Results: The average SS score was M= 4.22 (SD= 0.97) (range= 1-5). The average total HADS-Depression and HADS-Anxiety scores were M= 2.56 and M= 5.80 respectively. The average FOR score was M= 2.72 (range= 1-6). There was a significant direct effect of SS on HADS-Depression (direct effect = -1.20, SE =.34, p < .001) and HADS-Anxiety (direct effect = -1.63, SE =.44, p< .001). Moreover, the indirect effect of SS on HADS-Anxiety through FOR was significant (indirect effect= -.47, SE= .30, 95% CI: -1.17, -.01).  However, the indirect effect of SS on HADS-Depression through FOR was not significant (indirect effect= -.06, SE= .13, 95% CI: .36, .15).
+    Results: We found significant direct effects of SS on HADS-Depression (direct effect= -1.20, SE =.34, p < .001) and HADS-Anxiety (direct effect = -1.63, SE =.44, p < .001). The indirect effects of SS on psychological distress (anxiety and depression) through FOR were not significant (indirect effect= -.47, SE= .27, 95% CI: -1.09, -.003; indirect effect= -.06, SE= .11, 95% CI: -.33, .11).
 
-    Conclusions: This study indicates that social support, fear of recurrence and stress all play an important role in the psychological well-being of BBCS. 
-
-    Implications for Cancer Survivors: This study underscores the value of assessing breast cancer survivors’ social support needs when devising survivorship care plans.
+    Conclusions: This study indicates that social support and psychological distress play an important role in well-being of BBCS. This study underscores the value of assessing breast cancer survivors’ social support needs when devising survivorship care plans.
   type: article
 ---
 ***What was your research process like?***  
