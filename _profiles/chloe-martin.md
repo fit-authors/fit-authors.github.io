@@ -10,7 +10,7 @@ linkedin: https://www.linkedin.com/in/chloe-martin-phd/
 image: martin.jpg
 about:
   - Professor at FIT since Fall 2022
-  - Manuscript is being finalized for submission to the Journal of Cancer Survivorship
+  - The manuscript has been received by the Journal of Cancer Survivorship
 
 work:
   title: The Impact of Social Support on Psychological Distress Among Black Breast Cancer Survivors
@@ -40,7 +40,7 @@ But it also felt like a natural project to undertake as a member of the faculty 
 This work is rewarding because it's innovative and unique. When you think of cancer prevention and control, fashion isn't one of the first solutions that comes to mind. This is something I'm trying to change. 
 
 ***Is there other information we should know?***  
-The co-authors and I are still finalizing the manuscript for submission to the Journal of Cancer Survivorship. 
+The manuscript has been received by the _Journal of Cancer Survivorship_.   
 
 ***Have you published any other books or have any upcoming publications?***  
 I have another manuscript that I'll be submitting to the _Journal of Racial and Ethnic Health Disparities_ in the Spring of 2023. Previous publications are listed in my [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1ne1lkhF3iBwiH/bibliography/public/).
