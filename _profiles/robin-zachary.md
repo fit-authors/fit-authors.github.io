@@ -13,6 +13,7 @@ about:
   - Creative Director at Bridal Guide Magazine, 1999-2007
   - Freelance Fashion and Prop Stylist, 2007-present
   - Started at FIT as Adjunct Professor in Photography, 2007
+  - Home Design Editor of Bridal Guide, 2008-present
   - Book published in August 2022
 
 work:
