@@ -10,7 +10,9 @@ website: https://www.robinzachary.com/
 instagram: robinzachary
 image: zachary.jpg
 about:
-  - Started at FIT as a professor in Photography, now in Fabric Styling 
+  - Creative Director at Bridal Guide Magazine, 1999-2007
+  - Freelance Fashion and Prop Stylist, 2007-present
+  - Started at FIT as Adjunct Professor in Photography, 2007
   - Book published in August 2022
 
 work:
@@ -31,10 +33,10 @@ Along my 9 year journey of teaching styling at FIT, I wrote and refined my mater
 I interviewed and profiled people in a variety of styling niches such as food styling, fashion stills, interior styling  and how they all fall under the umbrella of Prop styling and related fields. I recalled my many years of experiences and interviewed veterans as well as newer entrants into the field. Photo research was most intensive, collecting photos from others who had experiences different from mine and setting up 2 weeks of original photo shoots.
 
 ***How long did you work on this before it was published?***  
-2 years intensively once I has a publisher, but I had been thinking of self publishing and had been writing for a few years prior. 
+2 years intensively once I had a publisher, but I had been thinking of self publishing and had been writing for a few years prior. 
 
 ***Does this work relate to your role at FIT? If so, how?***  
-Yes, I mention FIT as part of my teaching history in the photography department. I am working on a new course specifically on Prop Sryling for the Fabric Styling Department going forward.
+In the book, I mention teaching photo styling at FIT in the Photography department as part of my history. I am working on a new course specifically on Prop Styling for the Fabric Styling department going forward.
 
 ***What was your biggest challenge? What was most rewarding?***  
 It is a complicated field to understand and therefore explain. Because of the rise of social media, well-styled, current looking visuals are a must for any business now and I am rewarded by the fact that I'm the one reaching people around the world that are curious about prop styling.
