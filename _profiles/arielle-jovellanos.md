@@ -24,7 +24,7 @@ work:
 
     When Lois uncovers a potentially explosive scandal, she must team up with the last person she’d expect to publish her own website for young women. And as Lois discovers who she really is and what she actually wants, she becomes embroiled in her own scandal that could destroy everything she’s worked so hard to create.
 
-    From beloved author, Sarah Kuhn (Shadow of the Batgirl, Heroine Complex), and with expressive and lively art by Arielle Jovellanos, comes a charming YA story about the strength it takes to embrace the messiness of life.
+    From beloved author, Sarah Kuhn (_Shadow of the Batgirl_, _Heroine Complex_), and with expressive and lively art by Arielle Jovellanos, comes a charming YA story about the strength it takes to embrace the messiness of life.
   type: book
   image: jovellanos-cover.jpg
   website: https://www.penguinrandomhouse.com/books/721739/girl-taking-over-a-lois-lane-story-by-sarah-kuhn/
