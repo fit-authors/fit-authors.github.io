@@ -1,74 +1,76 @@
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135883369-1"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XL22J63RXR"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
-    gtag('config', 'UA-135883369-1');
+    gtag('config', 'G-XL22J63RXR');
   </script>
 
   <!-- Canonical link to help search engines -->
-  <link rel="canonical" href="https://authors.fitnyc.edu{{ page.url }}"/>
+  <link rel="canonical" href="https://authors.fitnyc.edu{{ page.url }}" />
 
   <!-- Basic meta elements -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
   <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
 
 
 
   {% if page.title == "Home" %}
-    <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
-    <title>{{ site.title }}</title>
+  <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+  <title>{{ site.title }}</title>
 
   {% elsif page.layout == "profile" %}
-    <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
-    <title>{{ page.name }}</title>
+  <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+  <title>{{ page.name }}</title>
 
-    <!-- Open Graph data -->
-    <meta property="og:title" content="{{ page.name }}">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="https://authors.fitnyc.edu{{ page.url }}">
-    {% if page.image %}
-    <meta property="og:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
-    {% endif %}
-    <meta property="og:description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ page.name }}">
-    <meta name="twitter:description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
-    {% if page.image %}
-    <meta name="twitter:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
-    {% endif %}
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ page.name }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://authors.fitnyc.edu{{ page.url }}">
+  {% if page.image %}
+  <meta property="og:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
+  {% endif %}
+  <meta property="og:description"
+    content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.name }}">
+  <meta name="twitter:description"
+    content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+  {% if page.image %}
+  <meta name="twitter:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
+  {% endif %}
 
   {% elsif page.layout == "event" %}
-    <meta name="description" content="{{ page.description }}">
-    <title>{{ page.event_title }}</title>
+  <meta name="description" content="{{ page.description }}">
+  <title>{{ page.event_title }}</title>
 
-    <!-- Open Graph data -->
-    <meta property="og:title" content="{{ page.event_title }}">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="https://authors.fitnyc.edu{{ page.url }}">
-    {% if page.image %}
-    <meta property="og:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
-    {% endif %}
-    <meta property="og:description" content="{{ page.description }}">
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ page.event_title }}">
-    <meta name="twitter:description" content="{{ page.description }}">
-    {% if page.image %}
-    <meta name="twitter:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
-    {% endif %}
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ page.event_title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://authors.fitnyc.edu{{ page.url }}">
+  {% if page.image %}
+  <meta property="og:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
+  {% endif %}
+  <meta property="og:description" content="{{ page.description }}">
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.event_title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  {% if page.image %}
+  <meta name="twitter:image" content="https://authors.fitnyc.edu/assets/images/{{page.image}}">
+  {% endif %}
 
   {% else %}
-    <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
-    <title>{{ page.title }}</title>
+  <meta name="description" content="Discover the depth and breadth of authors who teach, work, and study at FIT!">
+  <title>{{ page.title }}</title>
   {% endif %}
 
 
@@ -77,8 +79,9 @@
   <link rel="shortcut icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <!-- styles -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css"/>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
 
 </head>
