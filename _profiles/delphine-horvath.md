@@ -2,9 +2,9 @@
 layout: profile
 name: Delphine Horvath
 interview: 2023-03
-title: Assistant Professor
-division: School of Graduate Studies
-department: Cosmetics and Fragrance Marketing and Management
+title: Associate Professor
+division: Jay and Patty Baker School of Business and Technology
+department: Cosmetics and Fragrance Marketing
 email: delphine_horvath@fitnyc.edu
 linkedin: https://www.linkedin.com/in/delphinehorvath/
 image: horvath.jpg
