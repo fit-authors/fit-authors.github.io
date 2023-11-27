@@ -32,3 +32,5 @@ gem "wdm", "~> 0.1.0"
 gem 'wax_tasks', '~>1.0.beta'
 #kramdown upgrade
 gem "kramdown-parser-gfm"
+
+gem "webrick", "~> 1.8"
