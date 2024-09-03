@@ -10,17 +10,15 @@ linkedin: https://www.linkedin.com/in/chloe-martin-phd/
 image: martin.jpg
 about:
   - Professor at FIT since Fall 2022
-  - The manuscript has been received by the Journal of Cancer Survivorship
 
 work:
   title: The Impact of Social Support on Psychological Distress Among Black Breast Cancer Survivors
-  subtitle: The Mediating Role of Fear of Recurrence
   summary: |
-    Purpose: We examined the effect of social support (SS) on psychological distress among Black breast cancer survivors (BBCS), and tested fear of recurrence (FOR) as a mediator in this relationship.
+    Purpose: We examined the effect of social support (SS) on psychological distress among Black breast cancer survivors (BBCS).
 
-    Methods: Sixty-four BBCS (M = 57.8 years) completed a questionnaire assessing socio-demographic/clinical characteristics, psychological distress (Hospital Anxiety and Depression Scale), social support (Duke-UNC Functional Social Support Questionnaire), and FOR (Concerns About Recurrence Scale). Statistical analyses were performed using PROCESS for SPSS.
+    Methods: Sixty-four BBCS (M = 57.8 years) completed a questionnaire assessing socio-demographic/clinical characteristics, psychological distress (Hospital Anxiety and Depression Scale), and social support (Duke-UNC Functional Social Support Questionnaire).
 
-    Results: We found significant direct effects of SS on HADS-Depression (direct effect= -1.20, SE =.34, p < .001) and HADS-Anxiety (direct effect = -1.63, SE =.44, p < .001). The indirect effects of SS on psychological distress (anxiety and depression) through FOR were not significant (indirect effect= -.47, SE= .27, 95% CI: -1.09, -.003; indirect effect= -.06, SE= .11, 95% CI: -.33, .11).
+    Results: We found significant direct effects of SS on HADS-Depression (direct effect= -1.20, SE =.34, p < .001) and HADS-Anxiety (direct effect = -1.63, SE =.44, p < .001).
 
     Conclusions: This study indicates that social support and psychological distress play an important role in well-being of BBCS. This study underscores the value of assessing breast cancer survivors’ social support needs when devising survivorship care plans.
   type: article
