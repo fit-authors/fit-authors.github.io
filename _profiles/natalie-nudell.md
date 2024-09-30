@@ -16,7 +16,7 @@ work:
   title: In American Fashion
   subtitle: Ruth Finley's Fashion Calendar
   summary: |
-    In American Fashion is the first scholarly analysis of the *Fashion Calendar*, the unique scheduling service and trade publication for the American fashion and creative industries between 1941 and 2014.
+    *In American Fashion* is the first scholarly analysis of the *Fashion Calendar*, the unique scheduling service and trade publication for the American fashion and creative industries between 1941 and 2014.
 
     Published by Ruth Finley for almost seven decades, the *Calendar* had an extensive impact on the development of the American fashion industry in the 20th century. Unlike European fashion capitals, the American fashion industry relied on an independent small publisher to manage the schedule of an ever-growing industry. *In American Fashion* shows how this independent position influenced the democratic approach reflected in the industry in the United States. Finley's unique contribution to the development of the time-system and culture of American fashion made her a key player during the ascendency of American fashion design.
 

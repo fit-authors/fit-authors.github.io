@@ -1,32 +1,42 @@
 ---
 layout: profile
 name: Ron Amato
-interview: 2018-04
+interview: 2024-09
 title: Professor
 division: School of Art and Design
-department: Photography Department
+department: Photography and Related Media
 email: ron_amato@fitnyc.edu
-instagram: 'ron_amato'
-website: http://www.ronamato.com/
-image: amato.jpg
+instagram: ron_amato
+website: https://www.ronamato.com/
+image: amato-2.jpg
 about:
-  - 'Time to publication: 2 years'
   - Professor at FIT since 2005
-  - Teaches photography classes on light & visual narrative
+  - Book published in May 2024
 
 work:
-  title: The Box
-  summary: Focused on themes of isolation, desire, conflict and empowerment, Ron Amato's photographic series and book, The Box, speaks to human experiences of self-discovery and community building. Using a series of boxes to create visual metaphors, Ron echoes his development from adolescence to adulthood through over 100 color, and black and white photographs. Evoking first his youth in Brooklyn, New York during the 1960s and 1970s, moving through his coming out as a gay man and to his present position as a respected professional photographer and teacher, Ron creates a vivid portrait of struggle and triumph.
+  title: Artists of Provincetown
+  summary: |
+    *Artists of Provincetown* by fine art photographer Ron Amato seeks to not only celebrate, but preserve the legacy of one of the nation’s oldest art colonies, now facing an uncertain future due to rising property values, corporate invasion, and what, in the book’s introduction, Pulitzer Prize winning author Michael Cunningham calls, “catastrophic expense.”
+
+    Made over a period of eight years, *Artists of Provincetown* contains 84 quietly immersive portraits that illustrate the breadth and depth of this 125-year-old community of painters, writers, photographers and sculptors. 
   type: book
-  image: amato-cover.jpg
-  website: http://www.ronamato.com/the-box-book/
-  fit-url: https://suny-fit.primo.exlibrisgroup.com/permalink/01SUNY_FIT/tohcu8/alma990001579900204829
+  image: amato-2-cover.jpg
+  website: https://www.ronamato.com/artists-of-provincetown-book
 ---
-***How did you come up with the idea?***  
-I had been wanting to use a box to represent adversity for a long time.
+***How did you first come up with the idea for this work?***  
+Being a part time resident of Provincetown, I became more immersed in the artist community there. Understanding the increasingly unstable economic situation for many of these artists and the difficulty of maintaining an artist's life in Provincetown (read Michael Cunningham's introduction), I wanted to document it before it was it became unaffordable for the artist to live there and work there.
 
-***Does this publication relate to your work or teaching at FIT? If so, how?***  
-Certainly the experience of making a large scale work like this, getting it published and marketing it is an experience I carry with me into the classroom. It is an experience few current photography faculty have.
+***What was your research process like?***  
+I engage a number of leaders in the artist community, including curators, historians and long-time artist residents to assist in identifying subject with deep ties and a legacy in the community. 
 
-***What are you proudest of?***  
-The crossover of the work from a niche audience to mainstream and winning the 2017 American Photographic Artists award for Outstanding Photography Series.
+***How long did you work on this before it was published?***  
+8 years.
+
+***Does this work relate to your role at FIT? If so, how?***  
+As an art and design educator, it is vital that I stay connected to my discipline. Each long term project teaches me new things about process, new technologies and research methods, and the endurance to complete a large scale body of work. In addition this work was a museum exhibition, the largest exhibition I've ever created. All of this deepens and expands my teaching practice.
+
+***What was your biggest challenge? What was most rewarding?***  
+Identifying and securing subjects. The community response was overwhelming. It made the 8 years of hard, often frustrating work, more than worth it. This body of work will endure as an historical document long after I'm gone. 
+
+***Have you published any other books or have any upcoming publications?***  
+This is my third monograph. My first was *The Box* in 2016. In 2022 I published *100 - Members Only Volume 1*. I am currently working on a magazine called *AMATO*. I prefer the long form of a book. Publishing a magazine allows me to engage in that process in between books.
