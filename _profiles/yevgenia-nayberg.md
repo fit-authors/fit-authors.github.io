@@ -32,7 +32,7 @@ work:
 In 2017, The Jewish Museum held an exhibition of Stettheimer’s work. A friend attending the show sent me a photograph of Florine’s early self-portrait. I was shocked by how much I resembled her! I was instantly inspired by this mystical connection to a painter born 100 years before me. As I explored her art and poetry, I became drawn to her exuberance, wit, and her way of looking at the world through an ironic lens.
 
 ***What was your research process like?***  
-I had to read as many biographical accounts of Florine's life as well as critical research of her artistic style. As an illustrator, my task was quite challenging.  As much as I like Florine’s work, my own artistic style is quite different. The most exciting challenge was inventing a style that resembled Florine’s without losing my own. 
+I had to read many biographical accounts of Florine's life as well as critical research of her artistic style. As an illustrator, my task was quite challenging.  As much as I like Florine’s work, my own artistic style is quite different. The most exciting challenge was inventing a style that resembled Florine’s without losing my own. 
 
 ***How long did you work on this before it was published?***  
 About two years
