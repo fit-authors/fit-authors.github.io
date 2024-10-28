@@ -7,6 +7,7 @@ division: School of Art & Design
 department: Fine Arts
 email: sylvie_germaincovey@fitnyc.edu
 image: covey.jpg
+event_youtube_id: y4AGsW4nKKE
 website: https://www.sylviecovey.com/
 about:
   - Professor at FIT since 2001

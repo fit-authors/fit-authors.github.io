@@ -7,6 +7,7 @@ division:
 department: Museum at FIT
 email: elizabeth_way@fitnyc.edu
 image: way.jpg
+event_youtube_id: IrmXHPGEKBw
 about:
   - At FIT since 2013
 

@@ -8,6 +8,7 @@ department: Cosmetics and Fragrance Marketing
 email: delphine_horvath@fitnyc.edu
 linkedin: https://www.linkedin.com/in/delphinehorvath/
 image: horvath.jpg
+event_youtube_id: wmnDjWhnX-U
 about:
   - Professor at FIT since Fall 2016
   - Book published in July/August 2023

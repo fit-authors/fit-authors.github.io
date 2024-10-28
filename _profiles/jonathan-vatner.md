@@ -10,6 +10,7 @@ facebook: JonathanVatnerAuthor
 twitter: jvatner
 website: http://www.jonathanvatner.com/
 image: vatner.jpg
+event_youtube_id: d-ynO8Nn7Qk
 about:
   - 'Time to publication: 5 years'
   - Managing Editor at FIT since 2011

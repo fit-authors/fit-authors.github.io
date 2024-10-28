@@ -8,6 +8,7 @@ department: History of Art
 email: alexander_nagel@fitnyc.edu
 website: https://www.fitnyc.edu/creative-nexus/faculty/directory/nagel-alexander.php
 image: nagel.jpg
+event_youtube_id: dXejmyzxorU
 about:
   - Started teaching at FIT in 2018
   - Book published in November 2023

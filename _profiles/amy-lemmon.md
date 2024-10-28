@@ -10,6 +10,7 @@ instagram: ThatAmyLemmon
 twitter: ThatAmyLemmon
 website: https://www.amylemmonwriter.com/
 image: lemmon.jpg
+event_youtube_id: kDPfnJ_XBPA
 about:
   - 'Time to publication: 10 years'
   - Professor at FIT since 1996

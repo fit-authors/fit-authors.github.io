@@ -10,6 +10,7 @@ website: https://alexandraschwartz.academia.edu/
 instagram: alixschwartz
 linkedin: https://www.linkedin.com/in/alexandra-schwartz-40121714/
 image: schwartz.jpeg
+event_youtube_id: BL02sC8XNnA
 about:
   - Professor at FIT since 2018
 

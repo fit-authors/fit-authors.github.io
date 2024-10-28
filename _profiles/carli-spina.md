@@ -7,6 +7,7 @@ division: Gladys Marcus Library
 department: Research & Instructional Services
 email: carli_spina@fitnyc.edu
 image: spina.jpg
+event_youtube_id: L7cylI5Lzbw
 about:
   - 'Time to publication: 2 years'
   - Professor at FIT since 2018

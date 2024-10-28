@@ -8,6 +8,7 @@ department: Exhibition & Experience Design
 email: brenda_cowan@fitnyc.edu
 website: https://www.psychotherapeuticobjectdynamics.com/
 image: cowan.jpg
+event_youtube_id: YFeRoy11yOA
 about:
   - 'Time to publication: 2 years'
   - Professor at FIT since 2007

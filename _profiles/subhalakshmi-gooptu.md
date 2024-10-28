@@ -7,6 +7,7 @@ division: School of Liberal Arts and Sciences
 department: English and Communication Studies
 email: subhalakshmi_gooptu@fitnyc.edu
 image: gooptu.jpg
+event_youtube_id: bj5ydhaDTx4
 about:
   - Professor at FIT since Fall 2022
 

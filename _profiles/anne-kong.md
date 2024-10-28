@@ -9,6 +9,7 @@ email: anne_kong@fitnyc.edu
 instagram: Iamprofessorkong
 twitter: anne_kong
 image: kong.jpg
+event_youtube_id: kCAC4OREy9o
 about:
   - 'Time to publication: 2 years'
   - Professor at FIT since 1997

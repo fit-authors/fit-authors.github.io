@@ -10,6 +10,7 @@ website: http://www.hilarydavidson.net/
 twitter: fourredshoes
 instagram: fourredshoes
 image: davidson.jpg
+event_youtube_id: KOiLCHPPF18
 about:
   - Professor at FIT since Fall 2022
 

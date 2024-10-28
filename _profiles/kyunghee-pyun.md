@@ -8,6 +8,7 @@ department: History of Art
 email: kyunghee_pyun@fitnyc.edu
 website: https://www.kyungheepyun.com/
 image: pyun.jpg
+event_youtube_id: xgT4-WcVCqA
 about:
   - 'Time to publication: 2 years'
   - Professor at FIT since 2013

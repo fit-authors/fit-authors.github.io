@@ -10,6 +10,7 @@ website: https://www.richienarvaez.com/
 twitter: richie_narvaez
 instagram: rnz1000
 image: narvaez.jpg
+event_youtube_id: DnkJqk4DWgo
 about:
   - 'Time to publication: 5 years'
   - Professor at FIT since 2014

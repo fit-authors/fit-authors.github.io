@@ -8,6 +8,7 @@ department: Film, Media, and Performing Arts
 email: meira_goldberg@fitnyc.edu
 website: http://www.lameiraflamenco.com/
 image: goldberg.jpg
+event_youtube_id: M6MIVKPgeRo
 about:
   - 'Time to publication: 10 years'
   - Professor at FIT since 2005

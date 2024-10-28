@@ -8,6 +8,7 @@ department: Fashion Design Department
 email: daniel_cole@fitnyc.edu
 facebook: Daniel.James.Cole.Design
 image: cole.jpg
+event_youtube_id: bNapsJHdfCU
 about:
   - 'Time to publication: 7 years'
   - Professor at FIT since 2000

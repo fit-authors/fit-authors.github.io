@@ -8,6 +8,7 @@ department: Packaging Design
 email: michelle@joyfulplate.com
 website: https://moderatingaloveaffairwithfood.com/
 image: michelle-lawton.jpg
+event_youtube_id: v__b7LIWggY
 about:
   - Started teaching at FIT in 2023
   - Book published in October 2023

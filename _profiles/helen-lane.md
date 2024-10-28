@@ -8,6 +8,7 @@ department: Research & Instructional Services
 email: helen_lane@fitnyc.edu
 website: https://www.linkedin.com/in/librarianhelen/
 image: lane.jpg
+event_youtube_id: L7cylI5Lzbw
 about:
   - Professor at FIT since 2009
 

@@ -32,17 +32,20 @@ layout: default
           </a>
           {% endif %}
           {% if page.twitter %}
-          <a class="nav-link text-muted" aria-label="Twitter" href="https://twitter.com/{{page.twitter}}" target="_blank">
+          <a class="nav-link text-muted" aria-label="Twitter" href="https://twitter.com/{{page.twitter}}"
+            target="_blank">
             <i aria-hidden class="fab fa-twitter" title="Twitter"></i>
           </a>
           {% endif %}
           {% if page.instagram %}
-          <a class="nav-link text-muted" aria-label="Instagram" href="https://www.instagram.com/{{page.instagram}}" target="_blank">
+          <a class="nav-link text-muted" aria-label="Instagram" href="https://www.instagram.com/{{page.instagram}}"
+            target="_blank">
             <i aria-hidden class="fab fa-instagram" title="Instragram"></i>
           </a>
           {% endif %}
           {% if page.facebook %}
-          <a class="nav-link text-muted" aria-label="Facebook" href="https://www.facebook.com/{{page.facebook}}" target="_blank">
+          <a class="nav-link text-muted" aria-label="Facebook" href="https://www.facebook.com/{{page.facebook}}"
+            target="_blank">
             <i aria-hidden class="fab fa-facebook" title="Facebook"></i>
           </a>
           {% endif %}
@@ -75,12 +78,14 @@ layout: default
     <ul class="nav mb-3 mb-md-0">
       {% if page.work.fit-url %}
       <li class="nav-item">
-        <a class="nav-link text-muted p-0 mr-5" href="{{ page.work.fit-url }}" target="_blank"><small>Find in the FIT Library <i class="fas fa-external-link-alt"></i></small></a>
+        <a class="nav-link text-muted p-0 mr-5" href="{{ page.work.fit-url }}" target="_blank"><small>Find in the FIT
+            Library <i class="fas fa-external-link-alt"></i></small></a>
       </li>
       {% endif %}
       {% if page.work.website %}
       <li class="nav-item">
-        <a class="nav-link text-muted p-0" href="{{ page.work.website }}" target="_blank"><small>Visit official website <i class="fas fa-external-link-alt"></i></small></a>
+        <a class="nav-link text-muted p-0" href="{{ page.work.website }}" target="_blank"><small>Visit official website
+            <i class="fas fa-external-link-alt"></i></small></a>
       </li>
       {% endif %}
     </ul>
@@ -103,8 +108,18 @@ layout: default
   <div class="col-md-4">
     <ul class="lead mb-0 pl-md-0">
       {% for item in page.about %}
-      <li class="mb-2">{{ item }}</li>
+      <li>{{ item }}</li>
       {% endfor %}
     </ul>
   </div>
 </div>
+{% if page.event_youtube_id %}
+<div class="row align-items-center justify-content-between mt-5 pt-5" id="event-block">
+  <div class="col-12">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{page.event_youtube_id}}"
+        allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+{% endif %}
