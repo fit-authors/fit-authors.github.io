@@ -6,6 +6,7 @@ title: Adjunct Assistant Professor
 division: School of Liberal Arts
 department: History of Art
 email: jennifer_babcock@fitnyc.edu
+event_youtube_id: NKJHQCw8cnE
 image: babcock.jpg
 about:
   - Professor at FIT since Fall 2016
