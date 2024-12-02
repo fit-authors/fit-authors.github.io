@@ -5,6 +5,7 @@ interview: 2024-02
 title: Adjunct Assistant Professor
 division: School of Art and Design
 department: Apparel Design
+event_youtube_id: GoPmY2yw4U8
 email: kennethdking@earthlink.net
 website: https://www.kennethdking.com/
 instagram: kennethdking
