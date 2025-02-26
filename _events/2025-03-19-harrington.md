@@ -3,7 +3,7 @@ layout: event
 authors:
   - Cora Harrington
 event_title: 'Cora Harrington'
-description: "Cora Harrington talks about her book, In American Fashion: Ruth Finley's Fashion Calendar."
+description: "Cora Harrington talks about her book, In Intimate Detail: How to Choose, Wear, and Love Lingerie."
 location: |
   [Google Meet Event](https://meet.google.com/aiz-uveh-rfe)
 time: 5pm - 6pm
