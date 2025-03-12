@@ -2,6 +2,7 @@
 layout: profile
 name: Natalie Nudell
 interview: 2024-09
+event_youtube_id: 5rq07PXYqhw
 title: Adjunct Assistant Professor
 division: School of Liberal Arts and Sciences
 department: History of Art
