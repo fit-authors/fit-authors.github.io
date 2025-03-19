@@ -1,6 +1,6 @@
 /* start content */
 @import url('fonts/halyard.css');
-@import url('https://use.fontawesome.com/releases/v5.5.0/css/all.css');
+@import url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css');
 
 body {
   font-family: "Halyard Micro", sans-serif;
