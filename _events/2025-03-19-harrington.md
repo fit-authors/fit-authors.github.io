@@ -5,7 +5,7 @@ authors:
 event_title: 'Cora Harrington'
 description: "Cora Harrington talks about her book, In Intimate Detail: How to Choose, Wear, and Love Lingerie."
 location: |
-  [Google Meet Event](https://meet.google.com/aiz-uveh-rfe)
+  [Watch recording on Archive on Demand](https://archiveondemand.fitnyc.edu/item/601989)
 time: 5pm - 6pm
 image: harrington-event.jpg
 ---

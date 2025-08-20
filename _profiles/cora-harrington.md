@@ -7,6 +7,7 @@ division: School of Graduate Studies
 department: "Fashion and Textile Studies: History, Theory, Museum Practice"
 email: cora_harrington@fitnyc.edu
 twitter: coracharrington
+event_youtube_id: o0OzNhnGeqU
 image: harrington.jpg
 about:
   - Graduating in 2025
