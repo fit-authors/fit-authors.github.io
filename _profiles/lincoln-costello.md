@@ -3,7 +3,7 @@ layout: profile
 name: Lincoln Costello (Pseudonym Lincoln James)
 interview: 2025-09
 title: Adjunct Professor
-division: School of Liberal Arts 
+division: School of Liberal Arts and Sciences
 department: English and Communication
 email: lincoln_costello@fitnyc.edu
 website: https://thelincolnjames.com/
