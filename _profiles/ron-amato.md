@@ -8,6 +8,7 @@ department: Photography and Related Media
 email: ron_amato@fitnyc.edu
 instagram: ron_amato
 website: https://www.ronamato.com/
+event_youtube_id: OL07xJIwDq8
 image: amato-2.jpg
 about:
   - Professor at FIT since 2005

@@ -8,6 +8,7 @@ department: History of Art | Museum at FIT
 email: raissa_bretana@fitnyc.edu
 website: https://www.raissabretana.com/
 instagram: raissabretana
+event_youtube_id: LNRM-mxDspY
 image: bretana.jpg
 about:
   - Raissa teaches at FIT, works in the Musueum and is also an alumna

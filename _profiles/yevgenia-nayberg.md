@@ -8,6 +8,7 @@ department: Illustration and Interactive Media
 email: yevgenia_nayberg@fitnyc.edu
 instagram: znayberg 
 website: https://nayberg.org/
+event_youtube_id: EekILjZkr9Q
 image: nayberg.jpg
 about:
   - Professor at FIT since 2022
