@@ -1,50 +1,49 @@
 ---
 layout: profile
 name: Kenneth D. King
-interview: 2024-02
+interview: 2025-12
 title: Adjunct Assistant Professor
 division: School of Art and Design
 department: Apparel Design
 event_youtube_id: GoPmY2yw4U8
 email: kennethdking@earthlink.net
 website: https://www.kennethdking.com/
-instagram: kennethdking
+instagram: lolatheshowgirl24
 image: king.jpg
 about:
   - Started teaching at FIT in 2005
-  - Book published in 2023
+  - Book published in December 2025
 
 work:
   title: Doll Couture
-  subtitle: Creating Custom Clothes Featuring the Story of Lola
+  subtitle: Red Carpet Edition
   summary: |
-    Couturier to the stars and famed designer Kenneth D. King brings his Belle Epoque sensibilities to the world of custom doll clothing construction in _Doll Couture_. Inspired by his viral social media stories of Crazy Bella and her high-fashion friends, _Doll Couture_ showcases King's one-of-a-kind designs for clothes that fit 11-1/2 inch fashion dolls. 
+    From Runway to Red Carpet: Exquisite Doll Couture for Opening Night
 
-    Doll fashion has a long history within the tableau of clothing construction as the first way many people who sew started their sewing journeys. What sewing-crazy kid doesn't remember creating outfits for a favorite doll? Doll clothing was the entry point for so many, and it remains a craft that speaks to the intricacies of detail work that go into all clothing construction.
+    Step into a world of high fashion in miniature with *Doll Couture: Red Carpet Edition*, the dazzling follow-up to *Doll Couture* by celebrated designer Kenneth D. King. This stunning collection takes Lola, the ever-stylish fashion muse, beyond the runway and onto the red carpet, dressed in couture creations inspired by the grandeur of Broadway premieres and star-studded gala nights.
 
-    The recently renewed interest in doll culture, nostalgic focus on collectibles, and renewed interest in the fiber arts make this the perfect time to step into this space. Guided by King, an expert in couture sewing who threads the needle between the mechanics of garment construction and the visual feast of rich fabrics and design, _Doll Couture_ will be a one-of-a-kind project that both delights and inspires.
+    Each meticulously handcrafted ensemble channels the drama, elegance, and opulence of show-stopping opening nights, with intricate details that rival full-scale couture. Featuring breathtaking photography, behind-the-scenes insights, and expert craftsmanship, this book is a must-have for doll collectors, fashion enthusiasts, and couture sewing aficionados alike.
+
+    Whether you're inspired by miniature haute couture or simply enchanted by the art of fine dressmaking, *Doll Couture: Red Carpet Edition* brings the magic of the theater and the glamour of the red carpet to life—one exquisite outfit at a time.
   type: book
-  image: king-cover.jpg
+  image: king-2-cover.jpg
   website: https://www.kennethdking.com/dollcouture
-  isbn: 9781641552141
+  isbn: 9781963549232
 ---
 ***How did you first come up with the idea for this work?***  
-I have always played with dolls, and that's how I got my interest in fashion. During the pandemic, I came up with a doll story for Instagram about a character Crazy Bella being the victim of a blackmail attempt.
+This is a continuation of the first book of Doll Couture, and some of the characters introduced there appear in the new book.
 
 ***What was your research process like?***  
-I've made doll clothes all my life, so experimenting with the construction of 1/6 scale clothes was natural.
+Making doll clothes, really.
 
 ***How long did you work on this before it was published?***  
-Six months to write the manuscript and do all of the photos.
+This process took a year from the initial talks to the published book.
 
 ***Does this work relate to your role at FIT? If so, how?***  
-I tell my students that if you know your craft you will always have work. Sometimes the work doesn't look like the traditional path in the fashion industry.
+Fashion is fashion, and I tell my students that if they know their craft they will always have work. While the clothes in this book are 1/6 scale, sewing is sewing.
 
 ***What was your biggest challenge? What was most rewarding?***  
-The timeline for the manuscript was extremely tight (January 1 to June 1) so that was a challenge.  The most rewarding thing was seeing this story of Lola (she was a showgirl) come to life.
-
-***Is there other information we should know?***  
-This book is a piece of a larger puzzle, that of a business involved in making things: making things, researching things, writing about making things, and teaching about making things.
+What is most rewarding is that I get to make red carpet clothes for these tiny "customers", and get to see them appear in public for the red carpet event shown in the book.
 
 ***Have you published any other books or have any upcoming publications?***  
-I have 5 books published (6 if you count the French edition). I am a contributing editor for Threads Magazine, so publish articles four times a year. 
+I have 7 books (if you count the French edition). Also I'm a Contributing Editor for Threads Magazine.

@@ -25,6 +25,7 @@ work:
   type: book
   image: libes-cover.jpg
   website: https://vernonpress.com/book/2345
+  isbn: 9798881902964
 ---
 ***How did you first come up with the idea for this work?***  
 I was approached after a conference presentation I gave about my research in May 2023.
