@@ -31,7 +31,7 @@ work:
 I have been researching American fashion in the WWII period for quite a while. When I was writing my previous book, *Young Originals: Emily Wilkens and the Teen Sophisticate*, I saw many examples of the Phelpses' leathergoods and became interested in their work.
 
 ***What was your research process like?***  
-I did a lot of object-based research, studying the bags, belts, and clothing in person. I also combine that with wide range of visual of textual primary sources.
+I did a lot of object-based research, studying the bags, belts, and clothing in person. I also combine that with wide range of visual and textual primary sources.
 
 ***How long did you work on this before it was published?***  
 Ten years! It was also the subject of my doctoral dissertation at the Bard Graduate Center.
@@ -41,8 +41,6 @@ Yes, I teach and mentor graduate students in the "how-to" of writing their quali
 
 ***What was your biggest challenge? What was most rewarding?***  
 The biggest challenge is definitely image rights. The most rewarding thing for me is having the print book in hand!
-
-The most rewarding part was to make sure that the book doesn't have "an accent", to create a language that flows naturally without sounding exotic. 
 
 ***Have you published any other books or have any upcoming publications?***  
 Yes, I am also the author of *The Sunbonnet: An American Icon in Texas* (2009), and *Young Originals: Emily Wilkens and the Teen Sophisticate* (2015). 
